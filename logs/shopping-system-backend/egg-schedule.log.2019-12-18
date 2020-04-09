@@ -1,0 +1,90 @@
+2019-12-18 15:06:32,587 INFO 42822 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-18 15:06:32,587 INFO 42822 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-18 15:06:32,587 INFO 42822 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 13:26:29,983 INFO 44029 [Timer] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 54210081ms at 2019-12-20 04:30:00.064
+2019-12-19 13:26:29,980 INFO 42822 [Job#15767331898992603345076612971] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js executing by app
+2019-12-19 13:26:30,072 INFO 42822 [Job#15767331898992603345076612971] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js execute succeed, used 73ms
+2019-12-19 17:18:19,458 INFO 65061 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:18:19,458 INFO 65061 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:18:19,458 INFO 65061 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:18:40,449 INFO 65067 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:18:40,449 INFO 65067 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:18:40,449 INFO 65067 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:18:45,880 INFO 65072 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:18:45,881 INFO 65072 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:18:45,881 INFO 65072 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:21:31,485 INFO 65123 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:21:31,485 INFO 65123 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:21:31,485 INFO 65123 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:25:19,219 INFO 65285 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:25:19,219 INFO 65285 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:25:19,219 INFO 65285 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:25:28,894 INFO 65287 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:25:28,894 INFO 65287 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:25:28,894 INFO 65287 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:25:29,788 INFO 65288 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:25:29,788 INFO 65288 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:25:29,788 INFO 65288 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:25:45,214 INFO 65290 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:25:45,214 INFO 65290 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:25:45,214 INFO 65290 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:26:31,784 INFO 65300 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:26:31,784 INFO 65300 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:26:31,784 INFO 65300 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:29:20,132 INFO 65345 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:29:20,132 INFO 65345 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:29:20,132 INFO 65345 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:29:34,065 INFO 65350 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:29:34,065 INFO 65350 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:29:34,065 INFO 65350 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:31:00,374 INFO 65369 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:31:00,374 INFO 65369 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:31:00,374 INFO 65369 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:34:04,507 INFO 65412 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:34:04,507 INFO 65412 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:34:04,507 INFO 65412 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:34:13,080 INFO 65417 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:34:13,080 INFO 65417 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:34:13,080 INFO 65417 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:35:10,016 INFO 65457 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:35:10,016 INFO 65457 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:35:10,016 INFO 65457 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:35:31,504 INFO 65461 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:35:31,504 INFO 65461 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:35:31,504 INFO 65461 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:38:29,470 INFO 65498 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:38:29,470 INFO 65498 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:38:29,470 INFO 65498 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:40:41,904 INFO 65514 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:40:41,904 INFO 65514 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:40:41,904 INFO 65514 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:41:25,367 INFO 65527 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:41:25,367 INFO 65527 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:41:25,367 INFO 65527 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:41:27,207 INFO 65530 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:41:27,207 INFO 65530 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:41:27,207 INFO 65530 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:43:54,259 INFO 65572 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:43:54,259 INFO 65572 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:43:54,259 INFO 65572 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:44:29,529 INFO 65581 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:44:29,529 INFO 65581 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:44:29,529 INFO 65581 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:44:36,574 INFO 65589 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:44:36,574 INFO 65589 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:44:36,574 INFO 65589 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:45:50,406 INFO 65599 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:45:50,406 INFO 65599 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:45:50,406 INFO 65599 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:46:02,970 INFO 65601 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:46:02,970 INFO 65601 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:46:02,970 INFO 65601 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:46:03,706 INFO 65602 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-12-19 17:46:03,706 INFO 65602 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-12-19 17:46:03,706 INFO 65602 [egg-schedule]: register schedule /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-12-19 17:58:12,223 INFO 65602 [Job#15767494921902762156743993852] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
+2019-12-19 17:58:12,243 INFO 65602 [Job#15767494921902762156743993852] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 15ms
+2019-12-19 17:58:13,156 INFO 65602 [Job#15767494931562762166402289562] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
+2019-12-19 17:58:13,162 INFO 65602 [Job#15767494931562762166402289562] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 5ms
+2019-12-19 17:58:12,210 INFO 44029 [Timer] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 21707800ms at 2019-12-20 00:00:00.009
+2019-12-19 17:58:13,163 INFO 44029 [Timer] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 21707844ms at 2019-12-20 00:00:01.007

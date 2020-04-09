@@ -1,0 +1,444 @@
+2019-12-20 15:11:15,931 INFO 65602 [egg-logrotator] app logger reload: got log-reload message
+2019-12-20 16:01:12,300 WARN 65602 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-20 16:01:12,309 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 16:33:52,104 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 22:32:54,214 WARN 65602 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-20 22:32:54,317 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 22:47:17,105 INFO 65602 [-/127.0.0.1/-/39ms SCHEDULE /__schedule?path=/Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] start clean tmpdir: "/var/folders/hp/_6hmlqyj67q4p6h3h4vqtrr00000gp/T/egg-multipart-tmp/shopping-system-backend"
+2019-12-20 22:47:17,121 INFO 65602 [-/127.0.0.1/-/63ms SCHEDULE /__schedule?path=/Users/pengzefan/learn/shopping-system/be/node_modules/egg-multipart/app/schedule/clean_tmpdir.js&type=worker&cron=0%2030%204%20*%20*%20*&immediate=false] [egg-multipart:CleanTmpdir] end
+2019-12-21 11:09:56,405 WARN 65602 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-21 11:09:56,420 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-22 09:00:03,075 WARN 65602 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-22 09:00:03,097 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-23 15:47:44,685 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-23 22:43:38,622 WARN 65602 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-23 22:43:38,638 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-23 23:04:24,485 INFO 4418 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:04:24,520 INFO 4418 [egg-multipart] stream mode enable
+2019-12-23 23:04:24,521 INFO 4418 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:04:24,684 INFO 4418 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:04:24,686 INFO 4418 [egg-security] use methodnoallow middleware
+2019-12-23 23:04:24,687 INFO 4418 [egg-security] use noopen middleware
+2019-12-23 23:04:24,687 INFO 4418 [egg-security] use nosniff middleware
+2019-12-23 23:04:24,688 INFO 4418 [egg-security] use xssProtection middleware
+2019-12-23 23:04:24,689 INFO 4418 [egg-security] use xframe middleware
+2019-12-23 23:04:24,689 INFO 4418 [egg-security] use dta middleware
+2019-12-23 23:04:24,689 INFO 4418 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:04:24,705 INFO 4418 [egg:core] dump config after load, 9ms
+2019-12-23 23:04:24,714 INFO 4418 [egg-watcher:application] watcher start success
+2019-12-23 23:04:24,734 INFO 4418 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:04:24 GMT+0800 (China Standard Time)
+2019-12-23 23:04:24,740 INFO 4418 [egg:core] dump config after ready, 4ms
+2019-12-23 23:05:59,670 INFO 4426 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:05:59,694 INFO 4426 [egg-multipart] stream mode enable
+2019-12-23 23:05:59,694 INFO 4426 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:05:59,768 INFO 4426 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:05:59,769 INFO 4426 [egg-security] use methodnoallow middleware
+2019-12-23 23:05:59,770 INFO 4426 [egg-security] use noopen middleware
+2019-12-23 23:05:59,770 INFO 4426 [egg-security] use nosniff middleware
+2019-12-23 23:05:59,771 INFO 4426 [egg-security] use xssProtection middleware
+2019-12-23 23:05:59,771 INFO 4426 [egg-security] use xframe middleware
+2019-12-23 23:05:59,771 INFO 4426 [egg-security] use dta middleware
+2019-12-23 23:05:59,771 INFO 4426 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:05:59,792 INFO 4426 [egg:core] dump config after load, 12ms
+2019-12-23 23:05:59,805 INFO 4426 [egg-watcher:application] watcher start success
+2019-12-23 23:05:59,808 INFO 4426 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:05:59 GMT+0800 (China Standard Time)
+2019-12-23 23:05:59,814 INFO 4426 [egg:core] dump config after ready, 5ms
+2019-12-23 23:06:34,427 INFO 4439 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:06:34,453 INFO 4439 [egg-multipart] stream mode enable
+2019-12-23 23:06:34,453 INFO 4439 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:06:34,586 INFO 4439 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:06:34,588 INFO 4439 [egg-security] use methodnoallow middleware
+2019-12-23 23:06:34,589 INFO 4439 [egg-security] use noopen middleware
+2019-12-23 23:06:34,590 INFO 4439 [egg-security] use nosniff middleware
+2019-12-23 23:06:34,590 INFO 4439 [egg-security] use xssProtection middleware
+2019-12-23 23:06:34,591 INFO 4439 [egg-security] use xframe middleware
+2019-12-23 23:06:34,591 INFO 4439 [egg-security] use dta middleware
+2019-12-23 23:06:34,591 INFO 4439 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:06:34,601 INFO 4439 [egg:core] dump config after load, 3ms
+2019-12-23 23:06:34,611 INFO 4439 [egg-watcher:application] watcher start success
+2019-12-23 23:06:34,614 INFO 4439 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:06:34 GMT+0800 (China Standard Time)
+2019-12-23 23:06:34,619 INFO 4439 [egg:core] dump config after ready, 4ms
+2019-12-23 23:09:27,056 INFO 5916 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:09:27,087 INFO 5916 [egg-multipart] stream mode enable
+2019-12-23 23:09:27,087 INFO 5916 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:09:27,236 INFO 5916 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:09:27,238 INFO 5916 [egg-security] use methodnoallow middleware
+2019-12-23 23:09:27,239 INFO 5916 [egg-security] use noopen middleware
+2019-12-23 23:09:27,240 INFO 5916 [egg-security] use nosniff middleware
+2019-12-23 23:09:27,240 INFO 5916 [egg-security] use xssProtection middleware
+2019-12-23 23:09:27,241 INFO 5916 [egg-security] use xframe middleware
+2019-12-23 23:09:27,241 INFO 5916 [egg-security] use dta middleware
+2019-12-23 23:09:27,241 INFO 5916 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:09:27,253 INFO 5916 [egg:core] dump config after load, 6ms
+2019-12-23 23:09:27,266 INFO 5916 [egg-watcher:application] watcher start success
+2019-12-23 23:09:27,272 INFO 5916 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:09:27 GMT+0800 (China Standard Time)
+2019-12-23 23:09:27,278 INFO 5916 [egg:core] dump config after ready, 5ms
+2019-12-23 23:10:55,032 INFO 5977 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:10:55,056 INFO 5977 [egg-multipart] stream mode enable
+2019-12-23 23:10:55,056 INFO 5977 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:10:55,127 INFO 5977 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:10:55,129 INFO 5977 [egg-security] use methodnoallow middleware
+2019-12-23 23:10:55,129 INFO 5977 [egg-security] use noopen middleware
+2019-12-23 23:10:55,130 INFO 5977 [egg-security] use nosniff middleware
+2019-12-23 23:10:55,130 INFO 5977 [egg-security] use xssProtection middleware
+2019-12-23 23:10:55,130 INFO 5977 [egg-security] use xframe middleware
+2019-12-23 23:10:55,130 INFO 5977 [egg-security] use dta middleware
+2019-12-23 23:10:55,131 INFO 5977 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:10:55,139 INFO 5977 [egg:core] dump config after load, 4ms
+2019-12-23 23:10:55,154 INFO 5977 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:10:55 GMT+0800 (China Standard Time)
+2019-12-23 23:10:55,158 INFO 5977 [egg-watcher:application] watcher start success
+2019-12-23 23:10:55,165 INFO 5977 [egg:core] dump config after ready, 5ms
+2019-12-23 23:11:17,648 INFO 5980 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:11:17,666 INFO 5980 [egg-multipart] stream mode enable
+2019-12-23 23:11:17,666 INFO 5980 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:11:17,724 INFO 5980 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:11:17,725 INFO 5980 [egg-security] use methodnoallow middleware
+2019-12-23 23:11:17,725 INFO 5980 [egg-security] use noopen middleware
+2019-12-23 23:11:17,726 INFO 5980 [egg-security] use nosniff middleware
+2019-12-23 23:11:17,726 INFO 5980 [egg-security] use xssProtection middleware
+2019-12-23 23:11:17,726 INFO 5980 [egg-security] use xframe middleware
+2019-12-23 23:11:17,727 INFO 5980 [egg-security] use dta middleware
+2019-12-23 23:11:17,727 INFO 5980 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:11:17,734 INFO 5980 [egg:core] dump config after load, 4ms
+2019-12-23 23:11:17,747 INFO 5980 [egg-watcher:application] watcher start success
+2019-12-23 23:11:17,750 INFO 5980 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:11:17 GMT+0800 (China Standard Time)
+2019-12-23 23:11:17,757 INFO 5980 [egg:core] dump config after ready, 5ms
+2019-12-23 23:11:26,414 INFO 5982 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:11:26,438 INFO 5982 [egg-multipart] stream mode enable
+2019-12-23 23:11:26,438 INFO 5982 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:11:26,513 INFO 5982 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:11:26,515 INFO 5982 [egg-security] use methodnoallow middleware
+2019-12-23 23:11:26,515 INFO 5982 [egg-security] use noopen middleware
+2019-12-23 23:11:26,515 INFO 5982 [egg-security] use nosniff middleware
+2019-12-23 23:11:26,516 INFO 5982 [egg-security] use xssProtection middleware
+2019-12-23 23:11:26,516 INFO 5982 [egg-security] use xframe middleware
+2019-12-23 23:11:26,516 INFO 5982 [egg-security] use dta middleware
+2019-12-23 23:11:26,516 INFO 5982 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:11:26,525 INFO 5982 [egg:core] dump config after load, 4ms
+2019-12-23 23:11:26,539 INFO 5982 [egg-watcher:application] watcher start success
+2019-12-23 23:11:26,543 INFO 5982 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:11:26 GMT+0800 (China Standard Time)
+2019-12-23 23:11:26,549 INFO 5982 [egg:core] dump config after ready, 5ms
+2019-12-23 23:24:02,915 INFO 6710 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:24:02,945 INFO 6710 [egg-multipart] stream mode enable
+2019-12-23 23:24:02,946 INFO 6710 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:24:03,116 INFO 6710 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:24:03,118 INFO 6710 [egg-security] use methodnoallow middleware
+2019-12-23 23:24:03,120 INFO 6710 [egg-security] use noopen middleware
+2019-12-23 23:24:03,121 INFO 6710 [egg-security] use nosniff middleware
+2019-12-23 23:24:03,122 INFO 6710 [egg-security] use xssProtection middleware
+2019-12-23 23:24:03,123 INFO 6710 [egg-security] use xframe middleware
+2019-12-23 23:24:03,124 INFO 6710 [egg-security] use dta middleware
+2019-12-23 23:24:03,124 INFO 6710 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:24:03,142 INFO 6710 [egg:core] dump config after load, 8ms
+2019-12-23 23:24:03,155 INFO 6710 [egg-watcher:application] watcher start success
+2019-12-23 23:24:03,158 INFO 6710 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:24:03 GMT+0800 (China Standard Time)
+2019-12-23 23:24:03,165 INFO 6710 [egg:core] dump config after ready, 5ms
+2019-12-23 23:24:20,604 INFO 6716 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:24:20,628 INFO 6716 [egg-multipart] stream mode enable
+2019-12-23 23:24:20,628 INFO 6716 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:24:20,699 INFO 6716 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:24:20,701 INFO 6716 [egg-security] use methodnoallow middleware
+2019-12-23 23:24:20,701 INFO 6716 [egg-security] use noopen middleware
+2019-12-23 23:24:20,702 INFO 6716 [egg-security] use nosniff middleware
+2019-12-23 23:24:20,702 INFO 6716 [egg-security] use xssProtection middleware
+2019-12-23 23:24:20,702 INFO 6716 [egg-security] use xframe middleware
+2019-12-23 23:24:20,703 INFO 6716 [egg-security] use dta middleware
+2019-12-23 23:24:20,703 INFO 6716 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:24:20,711 INFO 6716 [egg:core] dump config after load, 4ms
+2019-12-23 23:24:20,725 INFO 6716 [egg-watcher:application] watcher start success
+2019-12-23 23:24:20,727 INFO 6716 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:24:20 GMT+0800 (China Standard Time)
+2019-12-23 23:24:20,734 INFO 6716 [egg:core] dump config after ready, 5ms
+2019-12-23 23:24:30,136 INFO 6725 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:24:30,160 INFO 6725 [egg-multipart] stream mode enable
+2019-12-23 23:24:30,160 INFO 6725 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:24:30,234 INFO 6725 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:24:30,235 INFO 6725 [egg-security] use methodnoallow middleware
+2019-12-23 23:24:30,236 INFO 6725 [egg-security] use noopen middleware
+2019-12-23 23:24:30,236 INFO 6725 [egg-security] use nosniff middleware
+2019-12-23 23:24:30,236 INFO 6725 [egg-security] use xssProtection middleware
+2019-12-23 23:24:30,237 INFO 6725 [egg-security] use xframe middleware
+2019-12-23 23:24:30,237 INFO 6725 [egg-security] use dta middleware
+2019-12-23 23:24:30,237 INFO 6725 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:24:30,247 INFO 6725 [egg:core] dump config after load, 4ms
+2019-12-23 23:24:30,260 INFO 6725 [egg-watcher:application] watcher start success
+2019-12-23 23:24:30,262 INFO 6725 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:24:30 GMT+0800 (China Standard Time)
+2019-12-23 23:24:30,269 INFO 6725 [egg:core] dump config after ready, 5ms
+2019-12-23 23:24:41,798 INFO 6726 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:24:41,822 INFO 6726 [egg-multipart] stream mode enable
+2019-12-23 23:24:41,822 INFO 6726 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:24:41,895 INFO 6726 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:24:41,897 INFO 6726 [egg-security] use methodnoallow middleware
+2019-12-23 23:24:41,898 INFO 6726 [egg-security] use noopen middleware
+2019-12-23 23:24:41,898 INFO 6726 [egg-security] use nosniff middleware
+2019-12-23 23:24:41,898 INFO 6726 [egg-security] use xssProtection middleware
+2019-12-23 23:24:41,899 INFO 6726 [egg-security] use xframe middleware
+2019-12-23 23:24:41,899 INFO 6726 [egg-security] use dta middleware
+2019-12-23 23:24:41,899 INFO 6726 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:24:41,908 INFO 6726 [egg:core] dump config after load, 4ms
+2019-12-23 23:24:41,921 INFO 6726 [egg-watcher:application] watcher start success
+2019-12-23 23:24:41,924 INFO 6726 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:24:41 GMT+0800 (China Standard Time)
+2019-12-23 23:24:41,931 INFO 6726 [egg:core] dump config after ready, 5ms
+2019-12-23 23:24:49,512 INFO 6728 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:24:49,535 INFO 6728 [egg-multipart] stream mode enable
+2019-12-23 23:24:49,535 INFO 6728 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:24:49,594 INFO 6728 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:24:49,595 INFO 6728 [egg-security] use methodnoallow middleware
+2019-12-23 23:24:49,596 INFO 6728 [egg-security] use noopen middleware
+2019-12-23 23:24:49,596 INFO 6728 [egg-security] use nosniff middleware
+2019-12-23 23:24:49,596 INFO 6728 [egg-security] use xssProtection middleware
+2019-12-23 23:24:49,596 INFO 6728 [egg-security] use xframe middleware
+2019-12-23 23:24:49,597 INFO 6728 [egg-security] use dta middleware
+2019-12-23 23:24:49,597 INFO 6728 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:24:49,604 INFO 6728 [egg:core] dump config after load, 3ms
+2019-12-23 23:24:49,613 INFO 6728 [egg-watcher:application] watcher start success
+2019-12-23 23:24:49,616 INFO 6728 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:24:49 GMT+0800 (China Standard Time)
+2019-12-23 23:24:49,622 INFO 6728 [egg:core] dump config after ready, 5ms
+2019-12-23 23:25:10,947 INFO 6731 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:25:10,971 INFO 6731 [egg-multipart] stream mode enable
+2019-12-23 23:25:10,971 INFO 6731 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:25:11,042 INFO 6731 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:25:11,044 INFO 6731 [egg-security] use methodnoallow middleware
+2019-12-23 23:25:11,044 INFO 6731 [egg-security] use noopen middleware
+2019-12-23 23:25:11,044 INFO 6731 [egg-security] use nosniff middleware
+2019-12-23 23:25:11,044 INFO 6731 [egg-security] use xssProtection middleware
+2019-12-23 23:25:11,045 INFO 6731 [egg-security] use xframe middleware
+2019-12-23 23:25:11,045 INFO 6731 [egg-security] use dta middleware
+2019-12-23 23:25:11,045 INFO 6731 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:25:11,052 INFO 6731 [egg:core] dump config after load, 3ms
+2019-12-23 23:25:11,063 INFO 6731 [egg-watcher:application] watcher start success
+2019-12-23 23:25:11,066 INFO 6731 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:25:11 GMT+0800 (China Standard Time)
+2019-12-23 23:25:11,072 INFO 6731 [egg:core] dump config after ready, 5ms
+2019-12-23 23:25:50,261 INFO 6736 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:25:50,284 INFO 6736 [egg-multipart] stream mode enable
+2019-12-23 23:25:50,284 INFO 6736 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:25:50,353 INFO 6736 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:25:50,354 INFO 6736 [egg-security] use methodnoallow middleware
+2019-12-23 23:25:50,355 INFO 6736 [egg-security] use noopen middleware
+2019-12-23 23:25:50,355 INFO 6736 [egg-security] use nosniff middleware
+2019-12-23 23:25:50,355 INFO 6736 [egg-security] use xssProtection middleware
+2019-12-23 23:25:50,356 INFO 6736 [egg-security] use xframe middleware
+2019-12-23 23:25:50,356 INFO 6736 [egg-security] use dta middleware
+2019-12-23 23:25:50,356 INFO 6736 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:25:50,365 INFO 6736 [egg:core] dump config after load, 4ms
+2019-12-23 23:25:50,378 INFO 6736 [egg-watcher:application] watcher start success
+2019-12-23 23:25:50,380 INFO 6736 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:25:50 GMT+0800 (China Standard Time)
+2019-12-23 23:25:50,387 INFO 6736 [egg:core] dump config after ready, 5ms
+2019-12-23 23:26:04,572 INFO 6738 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-23 23:26:04,590 INFO 6738 [egg-multipart] stream mode enable
+2019-12-23 23:26:04,590 INFO 6738 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-23 23:26:04,646 INFO 6738 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-23 23:26:04,648 INFO 6738 [egg-security] use methodnoallow middleware
+2019-12-23 23:26:04,648 INFO 6738 [egg-security] use noopen middleware
+2019-12-23 23:26:04,648 INFO 6738 [egg-security] use nosniff middleware
+2019-12-23 23:26:04,648 INFO 6738 [egg-security] use xssProtection middleware
+2019-12-23 23:26:04,649 INFO 6738 [egg-security] use xframe middleware
+2019-12-23 23:26:04,649 INFO 6738 [egg-security] use dta middleware
+2019-12-23 23:26:04,649 INFO 6738 [egg-security] compose 6 middlewares into one security middleware
+2019-12-23 23:26:04,656 INFO 6738 [egg:core] dump config after load, 4ms
+2019-12-23 23:26:04,667 INFO 6738 [egg-watcher:application] watcher start success
+2019-12-23 23:26:04,669 INFO 6738 [egg-mysql] instance[0] status OK, rds currentTime: Mon Dec 23 2019 23:26:04 GMT+0800 (China Standard Time)
+2019-12-23 23:26:04,675 INFO 6738 [egg:core] dump config after ready, 4ms
+2019-12-24 00:49:51,347 WARN 6738 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-24 01:10:54,569 WARN 6738 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-24 01:18:02,074 WARN 6738 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-24 01:18:02,074 WARN 6738 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-24 01:48:18,448 WARN 6738 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-24 02:03:58,403 INFO 11806 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:03:58,432 INFO 11806 [egg-multipart] stream mode enable
+2019-12-24 02:03:58,432 INFO 11806 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:03:58,590 INFO 11806 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:03:58,592 INFO 11806 [egg-security] use methodnoallow middleware
+2019-12-24 02:03:58,593 INFO 11806 [egg-security] use noopen middleware
+2019-12-24 02:03:58,593 INFO 11806 [egg-security] use nosniff middleware
+2019-12-24 02:03:58,594 INFO 11806 [egg-security] use xssProtection middleware
+2019-12-24 02:03:58,595 INFO 11806 [egg-security] use xframe middleware
+2019-12-24 02:03:58,596 INFO 11806 [egg-security] use dta middleware
+2019-12-24 02:03:58,596 INFO 11806 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:03:58,609 INFO 11806 [egg:core] dump config after load, 5ms
+2019-12-24 02:03:58,621 INFO 11806 [egg-watcher:application] watcher start success
+2019-12-24 02:03:58,625 INFO 11806 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:03:58 GMT+0800 (China Standard Time)
+2019-12-24 02:03:58,632 INFO 11806 [egg:core] dump config after ready, 5ms
+2019-12-24 02:06:10,609 INFO 11821 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:06:10,634 INFO 11821 [egg-multipart] stream mode enable
+2019-12-24 02:06:10,634 INFO 11821 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:06:10,770 INFO 11821 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:06:10,772 INFO 11821 [egg-security] use methodnoallow middleware
+2019-12-24 02:06:10,773 INFO 11821 [egg-security] use noopen middleware
+2019-12-24 02:06:10,774 INFO 11821 [egg-security] use nosniff middleware
+2019-12-24 02:06:10,775 INFO 11821 [egg-security] use xssProtection middleware
+2019-12-24 02:06:10,776 INFO 11821 [egg-security] use xframe middleware
+2019-12-24 02:06:10,777 INFO 11821 [egg-security] use dta middleware
+2019-12-24 02:06:10,777 INFO 11821 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:06:10,788 INFO 11821 [egg:core] dump config after load, 5ms
+2019-12-24 02:06:10,801 INFO 11821 [egg-watcher:application] watcher start success
+2019-12-24 02:06:10,804 INFO 11821 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:06:10 GMT+0800 (China Standard Time)
+2019-12-24 02:06:10,811 INFO 11821 [egg:core] dump config after ready, 5ms
+2019-12-24 02:06:28,234 INFO 11827 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:06:28,255 INFO 11827 [egg-multipart] stream mode enable
+2019-12-24 02:06:28,256 INFO 11827 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:06:28,344 INFO 11827 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:06:28,346 INFO 11827 [egg-security] use methodnoallow middleware
+2019-12-24 02:06:28,347 INFO 11827 [egg-security] use noopen middleware
+2019-12-24 02:06:28,347 INFO 11827 [egg-security] use nosniff middleware
+2019-12-24 02:06:28,348 INFO 11827 [egg-security] use xssProtection middleware
+2019-12-24 02:06:28,348 INFO 11827 [egg-security] use xframe middleware
+2019-12-24 02:06:28,349 INFO 11827 [egg-security] use dta middleware
+2019-12-24 02:06:28,349 INFO 11827 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:06:28,357 INFO 11827 [egg:core] dump config after load, 4ms
+2019-12-24 02:06:28,367 INFO 11827 [egg-watcher:application] watcher start success
+2019-12-24 02:06:28,369 INFO 11827 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:06:28 GMT+0800 (China Standard Time)
+2019-12-24 02:06:28,375 INFO 11827 [egg:core] dump config after ready, 4ms
+2019-12-24 02:06:42,063 INFO 11829 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:06:42,094 INFO 11829 [egg-multipart] stream mode enable
+2019-12-24 02:06:42,094 INFO 11829 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:06:42,238 INFO 11829 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:06:42,240 INFO 11829 [egg-security] use methodnoallow middleware
+2019-12-24 02:06:42,241 INFO 11829 [egg-security] use noopen middleware
+2019-12-24 02:06:42,242 INFO 11829 [egg-security] use nosniff middleware
+2019-12-24 02:06:42,243 INFO 11829 [egg-security] use xssProtection middleware
+2019-12-24 02:06:42,243 INFO 11829 [egg-security] use xframe middleware
+2019-12-24 02:06:42,244 INFO 11829 [egg-security] use dta middleware
+2019-12-24 02:06:42,244 INFO 11829 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:06:42,254 INFO 11829 [egg:core] dump config after load, 4ms
+2019-12-24 02:06:42,267 INFO 11829 [egg-watcher:application] watcher start success
+2019-12-24 02:06:42,270 INFO 11829 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:06:42 GMT+0800 (China Standard Time)
+2019-12-24 02:06:42,277 INFO 11829 [egg:core] dump config after ready, 5ms
+2019-12-24 02:08:48,751 INFO 11840 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:08:48,775 INFO 11840 [egg-multipart] stream mode enable
+2019-12-24 02:08:48,775 INFO 11840 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:08:48,922 INFO 11840 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:08:48,924 INFO 11840 [egg-security] use methodnoallow middleware
+2019-12-24 02:08:48,925 INFO 11840 [egg-security] use noopen middleware
+2019-12-24 02:08:48,925 INFO 11840 [egg-security] use nosniff middleware
+2019-12-24 02:08:48,926 INFO 11840 [egg-security] use xssProtection middleware
+2019-12-24 02:08:48,926 INFO 11840 [egg-security] use xframe middleware
+2019-12-24 02:08:48,927 INFO 11840 [egg-security] use dta middleware
+2019-12-24 02:08:48,927 INFO 11840 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:08:48,937 INFO 11840 [egg:core] dump config after load, 5ms
+2019-12-24 02:08:48,949 INFO 11840 [egg-watcher:application] watcher start success
+2019-12-24 02:08:48,952 INFO 11840 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:08:48 GMT+0800 (China Standard Time)
+2019-12-24 02:08:48,959 INFO 11840 [egg:core] dump config after ready, 5ms
+2019-12-24 02:09:10,196 INFO 11847 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:09:10,219 INFO 11847 [egg-multipart] stream mode enable
+2019-12-24 02:09:10,220 INFO 11847 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:09:10,293 INFO 11847 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:09:10,295 INFO 11847 [egg-security] use methodnoallow middleware
+2019-12-24 02:09:10,295 INFO 11847 [egg-security] use noopen middleware
+2019-12-24 02:09:10,296 INFO 11847 [egg-security] use nosniff middleware
+2019-12-24 02:09:10,296 INFO 11847 [egg-security] use xssProtection middleware
+2019-12-24 02:09:10,296 INFO 11847 [egg-security] use xframe middleware
+2019-12-24 02:09:10,296 INFO 11847 [egg-security] use dta middleware
+2019-12-24 02:09:10,297 INFO 11847 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:09:10,305 INFO 11847 [egg:core] dump config after load, 4ms
+2019-12-24 02:09:10,318 INFO 11847 [egg-watcher:application] watcher start success
+2019-12-24 02:09:10,321 INFO 11847 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:09:10 GMT+0800 (China Standard Time)
+2019-12-24 02:09:10,327 INFO 11847 [egg:core] dump config after ready, 4ms
+2019-12-24 02:09:11,836 INFO 11848 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:09:11,854 INFO 11848 [egg-multipart] stream mode enable
+2019-12-24 02:09:11,854 INFO 11848 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:09:11,908 INFO 11848 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:09:11,910 INFO 11848 [egg-security] use methodnoallow middleware
+2019-12-24 02:09:11,910 INFO 11848 [egg-security] use noopen middleware
+2019-12-24 02:09:11,910 INFO 11848 [egg-security] use nosniff middleware
+2019-12-24 02:09:11,910 INFO 11848 [egg-security] use xssProtection middleware
+2019-12-24 02:09:11,911 INFO 11848 [egg-security] use xframe middleware
+2019-12-24 02:09:11,911 INFO 11848 [egg-security] use dta middleware
+2019-12-24 02:09:11,911 INFO 11848 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:09:11,918 INFO 11848 [egg:core] dump config after load, 3ms
+2019-12-24 02:09:11,928 INFO 11848 [egg-watcher:application] watcher start success
+2019-12-24 02:09:11,931 INFO 11848 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:09:11 GMT+0800 (China Standard Time)
+2019-12-24 02:09:11,936 INFO 11848 [egg:core] dump config after ready, 4ms
+2019-12-24 02:09:50,433 INFO 11855 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:09:50,457 INFO 11855 [egg-multipart] stream mode enable
+2019-12-24 02:09:50,458 INFO 11855 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:09:50,592 INFO 11855 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:09:50,594 INFO 11855 [egg-security] use methodnoallow middleware
+2019-12-24 02:09:50,594 INFO 11855 [egg-security] use noopen middleware
+2019-12-24 02:09:50,595 INFO 11855 [egg-security] use nosniff middleware
+2019-12-24 02:09:50,596 INFO 11855 [egg-security] use xssProtection middleware
+2019-12-24 02:09:50,597 INFO 11855 [egg-security] use xframe middleware
+2019-12-24 02:09:50,597 INFO 11855 [egg-security] use dta middleware
+2019-12-24 02:09:50,597 INFO 11855 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:09:50,609 INFO 11855 [egg:core] dump config after load, 4ms
+2019-12-24 02:09:50,622 INFO 11855 [egg-watcher:application] watcher start success
+2019-12-24 02:09:50,625 INFO 11855 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:09:50 GMT+0800 (China Standard Time)
+2019-12-24 02:09:50,637 INFO 11855 [egg:core] dump config after ready, 10ms
+2019-12-24 02:13:43,977 INFO 11919 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:13:44,006 INFO 11919 [egg-multipart] stream mode enable
+2019-12-24 02:13:44,006 INFO 11919 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:13:44,154 INFO 11919 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:13:44,156 INFO 11919 [egg-security] use methodnoallow middleware
+2019-12-24 02:13:44,157 INFO 11919 [egg-security] use noopen middleware
+2019-12-24 02:13:44,157 INFO 11919 [egg-security] use nosniff middleware
+2019-12-24 02:13:44,158 INFO 11919 [egg-security] use xssProtection middleware
+2019-12-24 02:13:44,159 INFO 11919 [egg-security] use xframe middleware
+2019-12-24 02:13:44,159 INFO 11919 [egg-security] use dta middleware
+2019-12-24 02:13:44,159 INFO 11919 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:13:44,174 INFO 11919 [egg:core] dump config after load, 7ms
+2019-12-24 02:13:44,192 INFO 11919 [egg-watcher:application] watcher start success
+2019-12-24 02:13:44,197 INFO 11919 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:13:44 GMT+0800 (China Standard Time)
+2019-12-24 02:13:44,204 INFO 11919 [egg:core] dump config after ready, 5ms
+2019-12-24 02:14:00,078 INFO 11922 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:14:00,102 INFO 11922 [egg-multipart] stream mode enable
+2019-12-24 02:14:00,102 INFO 11922 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:14:00,174 INFO 11922 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:14:00,176 INFO 11922 [egg-security] use methodnoallow middleware
+2019-12-24 02:14:00,176 INFO 11922 [egg-security] use noopen middleware
+2019-12-24 02:14:00,177 INFO 11922 [egg-security] use nosniff middleware
+2019-12-24 02:14:00,177 INFO 11922 [egg-security] use xssProtection middleware
+2019-12-24 02:14:00,177 INFO 11922 [egg-security] use xframe middleware
+2019-12-24 02:14:00,178 INFO 11922 [egg-security] use dta middleware
+2019-12-24 02:14:00,178 INFO 11922 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:14:00,186 INFO 11922 [egg:core] dump config after load, 4ms
+2019-12-24 02:14:00,200 INFO 11922 [egg-watcher:application] watcher start success
+2019-12-24 02:14:00,202 INFO 11922 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:14:00 GMT+0800 (China Standard Time)
+2019-12-24 02:14:00,209 INFO 11922 [egg:core] dump config after ready, 5ms
+2019-12-24 02:14:05,029 INFO 11923 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:14:05,053 INFO 11923 [egg-multipart] stream mode enable
+2019-12-24 02:14:05,054 INFO 11923 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:14:05,125 INFO 11923 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:14:05,127 INFO 11923 [egg-security] use methodnoallow middleware
+2019-12-24 02:14:05,127 INFO 11923 [egg-security] use noopen middleware
+2019-12-24 02:14:05,128 INFO 11923 [egg-security] use nosniff middleware
+2019-12-24 02:14:05,128 INFO 11923 [egg-security] use xssProtection middleware
+2019-12-24 02:14:05,129 INFO 11923 [egg-security] use xframe middleware
+2019-12-24 02:14:05,129 INFO 11923 [egg-security] use dta middleware
+2019-12-24 02:14:05,129 INFO 11923 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:14:05,138 INFO 11923 [egg:core] dump config after load, 5ms
+2019-12-24 02:14:05,151 INFO 11923 [egg-watcher:application] watcher start success
+2019-12-24 02:14:05,155 INFO 11923 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:14:05 GMT+0800 (China Standard Time)
+2019-12-24 02:14:05,161 INFO 11923 [egg:core] dump config after ready, 5ms
+2019-12-24 02:14:22,133 INFO 11924 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:14:22,156 INFO 11924 [egg-multipart] stream mode enable
+2019-12-24 02:14:22,157 INFO 11924 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:14:22,232 INFO 11924 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:14:22,234 INFO 11924 [egg-security] use methodnoallow middleware
+2019-12-24 02:14:22,234 INFO 11924 [egg-security] use noopen middleware
+2019-12-24 02:14:22,235 INFO 11924 [egg-security] use nosniff middleware
+2019-12-24 02:14:22,235 INFO 11924 [egg-security] use xssProtection middleware
+2019-12-24 02:14:22,236 INFO 11924 [egg-security] use xframe middleware
+2019-12-24 02:14:22,236 INFO 11924 [egg-security] use dta middleware
+2019-12-24 02:14:22,236 INFO 11924 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:14:22,246 INFO 11924 [egg:core] dump config after load, 5ms
+2019-12-24 02:14:22,261 INFO 11924 [egg-watcher:application] watcher start success
+2019-12-24 02:14:22,264 INFO 11924 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:14:22 GMT+0800 (China Standard Time)
+2019-12-24 02:14:22,270 INFO 11924 [egg:core] dump config after ready, 5ms
+2019-12-24 02:14:24,749 INFO 11927 [egg:logger] init all loggers with options: {"dir":"/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-12-24 02:14:24,774 INFO 11927 [egg-multipart] stream mode enable
+2019-12-24 02:14:24,775 INFO 11927 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2019-12-24 02:14:24,849 INFO 11927 [egg-static] starting static serve /public/ -> /Users/pengzefan/learn/shopping-system/be/app/public
+2019-12-24 02:14:24,851 INFO 11927 [egg-security] use methodnoallow middleware
+2019-12-24 02:14:24,851 INFO 11927 [egg-security] use noopen middleware
+2019-12-24 02:14:24,852 INFO 11927 [egg-security] use nosniff middleware
+2019-12-24 02:14:24,852 INFO 11927 [egg-security] use xssProtection middleware
+2019-12-24 02:14:24,852 INFO 11927 [egg-security] use xframe middleware
+2019-12-24 02:14:24,853 INFO 11927 [egg-security] use dta middleware
+2019-12-24 02:14:24,853 INFO 11927 [egg-security] compose 6 middlewares into one security middleware
+2019-12-24 02:14:24,862 INFO 11927 [egg:core] dump config after load, 5ms
+2019-12-24 02:14:24,876 INFO 11927 [egg-watcher:application] watcher start success
+2019-12-24 02:14:24,878 INFO 11927 [egg-mysql] instance[0] status OK, rds currentTime: Tue Dec 24 2019 02:14:24 GMT+0800 (China Standard Time)
+2019-12-24 02:14:24,885 INFO 11927 [egg:core] dump config after ready, 5ms
+2019-12-24 10:52:17,131 WARN 11927 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-24 11:45:19,076 INFO 11927 [egg-logrotator] clean all log before 31 days
+2019-12-24 11:45:19,931 INFO 11927 [egg-logrotator] broadcast log-reload
+2019-12-24 11:45:19,931 INFO 11927 [egg-logrotator] rotate files success by DayRotator, files ["/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/common-error.log -> /Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/common-error.log.2019-12-23","/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/shopping-system-backend-web.log -> /Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/shopping-system-backend-web.log.2019-12-23","/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/egg-web.log -> /Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/egg-web.log.2019-12-23","/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/egg-schedule.log -> /Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/egg-schedule.log.2019-12-23","/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/egg-agent.log -> /Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/egg-agent.log.2019-12-23"]

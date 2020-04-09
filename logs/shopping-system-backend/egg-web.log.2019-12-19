@@ -1,0 +1,15 @@
+2019-12-19 17:58:13,163 INFO 65602 [egg-logrotator] app logger reload: got log-reload message
+2019-12-19 19:16:26,177 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 08:12:45,287 WARN 65602 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-20 08:12:45,302 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 09:30:03,007 WARN 65602 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-20 09:30:03,049 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 10:44:31,991 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 12:17:04,369 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 12:24:01,940 WARN 65602 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2019-12-20 12:24:01,941 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 12:34:20,758 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 12:49:56,771 WARN 65602 [ClusterClient:Watcher] follower closed, and try to init it again
+2019-12-20 15:11:15,111 INFO 65602 [egg-logrotator] clean all log before 31 days
+2019-12-20 15:11:15,919 INFO 65602 [egg-logrotator] broadcast log-reload
+2019-12-20 15:11:15,919 INFO 65602 [egg-logrotator] rotate files success by DayRotator, files ["/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/common-error.log -> /Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/common-error.log.2019-12-19","/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/shopping-system-backend-web.log -> /Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/shopping-system-backend-web.log.2019-12-19","/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/egg-web.log -> /Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/egg-web.log.2019-12-19","/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/egg-schedule.log -> /Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/egg-schedule.log.2019-12-19","/Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/egg-agent.log -> /Users/pengzefan/learn/shopping-system/be/logs/shopping-system-backend/egg-agent.log.2019-12-19"]
