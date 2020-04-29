@@ -1,6 +1,6 @@
-'use strict';
+"use strict";
 
-const Controller = require('egg').Controller;
+const Controller = require("egg").Controller;
 
 class GoodsController extends Controller {
   async getRecommendGoods() {
@@ -14,15 +14,15 @@ class GoodsController extends Controller {
         data: recommendGoods.map(item => {
           return {
             ...item,
-            url: JSON.parse(item.url),
+            url: JSON.parse(item.url)
           };
-        }),
+        })
       };
     } catch (err) {
       ctx.body = {
         code: -2,
         success: false,
-        msg: '获取推荐商品出错',
+        msg: "获取推荐商品出错"
       };
     }
   }
@@ -36,15 +36,15 @@ class GoodsController extends Controller {
         data: banner.map(item => {
           return {
             ...item,
-            url: JSON.parse(item.url),
+            url: JSON.parse(item.url)
           };
-        }),
+        })
       };
     } catch (err) {
       ctx.body = {
         code: -2,
         success: false,
-        msg: '获取轮播图失败',
+        msg: "获取轮播图失败"
       };
     }
   }
@@ -55,13 +55,13 @@ class GoodsController extends Controller {
       ctx.body = {
         code: 0,
         success: true,
-        data: categories,
+        data: categories
       };
     } catch (err) {
       ctx.body = {
         code: -2,
         success: false,
-        msg: '获取商品种类失败',
+        msg: "获取商品种类失败"
       };
     }
   }
@@ -76,15 +76,15 @@ class GoodsController extends Controller {
         data: goods.map(item => {
           return {
             ...item,
-            url: JSON.parse(item.url),
+            url: JSON.parse(item.url)
           };
-        }),
+        })
       };
     } catch (err) {
       ctx.body = {
         code: -2,
         success: false,
-        msg: '获取商品失败',
+        msg: "获取商品失败"
       };
     }
   }
@@ -95,7 +95,7 @@ class GoodsController extends Controller {
     ctx.body = {
       code: 0,
       success: true,
-      data: true,
+      data: true
     };
   }
   async getSearchGoods() {
@@ -109,15 +109,16 @@ class GoodsController extends Controller {
         data: goods.map(item => {
           return {
             ...item,
-            url: JSON.parse(item.url),
+            url: JSON.parse(item.url)
           };
-        }),
+        })
       };
     } catch (err) {
+      console.log(err);
       ctx.body = {
         code: -2,
         success: false,
-        msg: '获取商品失败',
+        msg: "获取商品失败"
       };
     }
   }
@@ -128,12 +129,14 @@ class GoodsController extends Controller {
     ctx.body = {
       code: 0,
       success: true,
-      data: result.length ? result.map(item => {
-        return {
-          ...item,
-          url: JSON.parse(item.url),
-        };
-      }) : [],
+      data: result.length
+        ? result.map(item => {
+            return {
+              ...item,
+              url: JSON.parse(item.url)
+            };
+          })
+        : []
     };
   }
   async addGoods() {
@@ -144,13 +147,13 @@ class GoodsController extends Controller {
       ctx.body = {
         code: 0,
         success: true,
-        data: result,
+        data: result
       };
     } catch (err) {
       ctx.body = {
         code: -2,
         success: false,
-        msg: '新增商品失败',
+        msg: "新增商品失败"
       };
     }
   }
@@ -162,13 +165,13 @@ class GoodsController extends Controller {
       ctx.body = {
         code: 0,
         success: true,
-        data: true,
+        data: true
       };
     } catch (err) {
       ctx.body = {
         code: -2,
         success: false,
-        msg: '删除商品失败',
+        msg: "删除商品失败"
       };
     }
   }

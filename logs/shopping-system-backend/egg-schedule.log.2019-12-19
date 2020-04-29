@@ -1,6 +1,0 @@
-2019-12-20 15:11:15,015 INFO 65602 [Job#15768258749142979235198169313] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js executing by app
-2019-12-20 15:11:15,111 INFO 65602 [Job#15768258749142979235198169313] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js execute succeed, used 79ms
-2019-12-20 15:11:14,971 INFO 44029 [Timer] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31725051ms at 2019-12-21 00:00:00.020
-2019-12-20 15:11:15,900 INFO 65602 [Job#15768258758952979244946127263] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js executing by app
-2019-12-20 15:11:15,920 INFO 65602 [Job#15768258758952979244946127263] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js execute succeed, used 20ms
-2019-12-20 15:11:15,921 INFO 44029 [Timer] /Users/pengzefan/learn/shopping-system/be/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31725103ms at 2019-12-21 00:00:01.024
