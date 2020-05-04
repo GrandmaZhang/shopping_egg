@@ -44,3 +44,446 @@
 2020-04-29 21:13:31,424 INFO 902 [egg-watcher:application] watcher start success
 2020-04-29 21:13:31,433 INFO 902 [egg-mysql] instance[0] status OK, rds currentTime: Wed Apr 29 2020 21:13:31 GMT+0800 (GMT+08:00)
 2020-04-29 21:13:31,442 INFO 902 [egg:core] dump config after ready, 6ms
+2020-05-02 15:22:18,598 INFO 2473 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 15:22:18,619 INFO 2473 [egg-multipart] stream mode enable
+2020-05-02 15:22:18,619 INFO 2473 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 15:22:18,860 INFO 2473 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 15:22:18,865 INFO 2473 [egg-security] use methodnoallow middleware
+2020-05-02 15:22:18,866 INFO 2473 [egg-security] use noopen middleware
+2020-05-02 15:22:18,867 INFO 2473 [egg-security] use nosniff middleware
+2020-05-02 15:22:18,868 INFO 2473 [egg-security] use xssProtection middleware
+2020-05-02 15:22:18,871 INFO 2473 [egg-security] use xframe middleware
+2020-05-02 15:22:18,872 INFO 2473 [egg-security] use dta middleware
+2020-05-02 15:22:18,872 INFO 2473 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 15:22:18,895 INFO 2473 [egg:core] dump config after load, 9ms
+2020-05-02 15:22:18,916 INFO 2473 [egg-watcher:application] watcher start success
+2020-05-02 15:22:18,922 INFO 2473 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 15:22:18 GMT+0800 (GMT+08:00)
+2020-05-02 15:22:18,927 INFO 2473 [egg:core] dump config after ready, 3ms
+2020-05-02 15:51:55,408 INFO 5032 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 15:51:55,428 INFO 5032 [egg-multipart] stream mode enable
+2020-05-02 15:51:55,428 INFO 5032 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 15:51:55,475 INFO 5032 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 15:51:55,477 INFO 5032 [egg-security] use methodnoallow middleware
+2020-05-02 15:51:55,477 INFO 5032 [egg-security] use noopen middleware
+2020-05-02 15:51:55,477 INFO 5032 [egg-security] use nosniff middleware
+2020-05-02 15:51:55,477 INFO 5032 [egg-security] use xssProtection middleware
+2020-05-02 15:51:55,478 INFO 5032 [egg-security] use xframe middleware
+2020-05-02 15:51:55,478 INFO 5032 [egg-security] use dta middleware
+2020-05-02 15:51:55,478 INFO 5032 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 15:51:55,485 INFO 5032 [egg:core] dump config after load, 3ms
+2020-05-02 15:51:55,499 INFO 5032 [egg-watcher:application] watcher start success
+2020-05-02 15:51:55,501 INFO 5032 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 15:51:55 GMT+0800 (GMT+08:00)
+2020-05-02 15:51:55,506 INFO 5032 [egg:core] dump config after ready, 3ms
+2020-05-02 15:53:36,884 INFO 5070 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 15:53:36,903 INFO 5070 [egg-multipart] stream mode enable
+2020-05-02 15:53:36,903 INFO 5070 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 15:53:36,961 INFO 5070 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 15:53:36,963 INFO 5070 [egg-security] use methodnoallow middleware
+2020-05-02 15:53:36,964 INFO 5070 [egg-security] use noopen middleware
+2020-05-02 15:53:36,964 INFO 5070 [egg-security] use nosniff middleware
+2020-05-02 15:53:36,964 INFO 5070 [egg-security] use xssProtection middleware
+2020-05-02 15:53:36,964 INFO 5070 [egg-security] use xframe middleware
+2020-05-02 15:53:36,965 INFO 5070 [egg-security] use dta middleware
+2020-05-02 15:53:36,965 INFO 5070 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 15:53:36,972 INFO 5070 [egg:core] dump config after load, 3ms
+2020-05-02 15:53:36,988 INFO 5070 [egg-watcher:application] watcher start success
+2020-05-02 15:53:36,992 INFO 5070 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 15:53:36 GMT+0800 (GMT+08:00)
+2020-05-02 15:53:36,996 INFO 5070 [egg:core] dump config after ready, 3ms
+2020-05-02 15:53:56,389 INFO 5082 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 15:53:56,410 INFO 5082 [egg-multipart] stream mode enable
+2020-05-02 15:53:56,410 INFO 5082 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 15:53:56,461 INFO 5082 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 15:53:56,463 INFO 5082 [egg-security] use methodnoallow middleware
+2020-05-02 15:53:56,463 INFO 5082 [egg-security] use noopen middleware
+2020-05-02 15:53:56,463 INFO 5082 [egg-security] use nosniff middleware
+2020-05-02 15:53:56,463 INFO 5082 [egg-security] use xssProtection middleware
+2020-05-02 15:53:56,464 INFO 5082 [egg-security] use xframe middleware
+2020-05-02 15:53:56,464 INFO 5082 [egg-security] use dta middleware
+2020-05-02 15:53:56,464 INFO 5082 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 15:53:56,472 INFO 5082 [egg:core] dump config after load, 4ms
+2020-05-02 15:53:56,486 INFO 5082 [egg-watcher:application] watcher start success
+2020-05-02 15:53:56,489 INFO 5082 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 15:53:56 GMT+0800 (GMT+08:00)
+2020-05-02 15:53:56,493 INFO 5082 [egg:core] dump config after ready, 3ms
+2020-05-02 16:03:33,211 INFO 5486 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:03:33,231 INFO 5486 [egg-multipart] stream mode enable
+2020-05-02 16:03:33,232 INFO 5486 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:03:33,280 INFO 5486 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:03:33,282 INFO 5486 [egg-security] use methodnoallow middleware
+2020-05-02 16:03:33,282 INFO 5486 [egg-security] use noopen middleware
+2020-05-02 16:03:33,283 INFO 5486 [egg-security] use nosniff middleware
+2020-05-02 16:03:33,283 INFO 5486 [egg-security] use xssProtection middleware
+2020-05-02 16:03:33,283 INFO 5486 [egg-security] use xframe middleware
+2020-05-02 16:03:33,283 INFO 5486 [egg-security] use dta middleware
+2020-05-02 16:03:33,283 INFO 5486 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:03:33,291 INFO 5486 [egg:core] dump config after load, 3ms
+2020-05-02 16:03:33,305 INFO 5486 [egg-watcher:application] watcher start success
+2020-05-02 16:03:33,308 INFO 5486 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:03:33 GMT+0800 (GMT+08:00)
+2020-05-02 16:03:33,312 INFO 5486 [egg:core] dump config after ready, 3ms
+2020-05-02 16:04:28,619 INFO 5516 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:04:28,642 INFO 5516 [egg-multipart] stream mode enable
+2020-05-02 16:04:28,642 INFO 5516 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:04:28,692 INFO 5516 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:04:28,694 INFO 5516 [egg-security] use methodnoallow middleware
+2020-05-02 16:04:28,694 INFO 5516 [egg-security] use noopen middleware
+2020-05-02 16:04:28,695 INFO 5516 [egg-security] use nosniff middleware
+2020-05-02 16:04:28,695 INFO 5516 [egg-security] use xssProtection middleware
+2020-05-02 16:04:28,695 INFO 5516 [egg-security] use xframe middleware
+2020-05-02 16:04:28,695 INFO 5516 [egg-security] use dta middleware
+2020-05-02 16:04:28,695 INFO 5516 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:04:28,703 INFO 5516 [egg:core] dump config after load, 4ms
+2020-05-02 16:04:28,717 INFO 5516 [egg-watcher:application] watcher start success
+2020-05-02 16:04:28,720 INFO 5516 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:04:28 GMT+0800 (GMT+08:00)
+2020-05-02 16:04:28,725 INFO 5516 [egg:core] dump config after ready, 3ms
+2020-05-02 16:04:51,147 INFO 5536 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:04:51,169 INFO 5536 [egg-multipart] stream mode enable
+2020-05-02 16:04:51,170 INFO 5536 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:04:51,226 INFO 5536 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:04:51,228 INFO 5536 [egg-security] use methodnoallow middleware
+2020-05-02 16:04:51,228 INFO 5536 [egg-security] use noopen middleware
+2020-05-02 16:04:51,228 INFO 5536 [egg-security] use nosniff middleware
+2020-05-02 16:04:51,228 INFO 5536 [egg-security] use xssProtection middleware
+2020-05-02 16:04:51,229 INFO 5536 [egg-security] use xframe middleware
+2020-05-02 16:04:51,229 INFO 5536 [egg-security] use dta middleware
+2020-05-02 16:04:51,229 INFO 5536 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:04:51,240 INFO 5536 [egg:core] dump config after load, 4ms
+2020-05-02 16:04:51,255 INFO 5536 [egg-watcher:application] watcher start success
+2020-05-02 16:04:51,257 INFO 5536 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:04:51 GMT+0800 (GMT+08:00)
+2020-05-02 16:04:51,262 INFO 5536 [egg:core] dump config after ready, 3ms
+2020-05-02 16:06:20,369 INFO 5553 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:06:20,390 INFO 5553 [egg-multipart] stream mode enable
+2020-05-02 16:06:20,390 INFO 5553 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:06:20,445 INFO 5553 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:06:20,446 INFO 5553 [egg-security] use methodnoallow middleware
+2020-05-02 16:06:20,447 INFO 5553 [egg-security] use noopen middleware
+2020-05-02 16:06:20,447 INFO 5553 [egg-security] use nosniff middleware
+2020-05-02 16:06:20,447 INFO 5553 [egg-security] use xssProtection middleware
+2020-05-02 16:06:20,447 INFO 5553 [egg-security] use xframe middleware
+2020-05-02 16:06:20,447 INFO 5553 [egg-security] use dta middleware
+2020-05-02 16:06:20,447 INFO 5553 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:06:20,455 INFO 5553 [egg:core] dump config after load, 3ms
+2020-05-02 16:06:20,470 INFO 5553 [egg-watcher:application] watcher start success
+2020-05-02 16:06:20,473 INFO 5553 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:06:20 GMT+0800 (GMT+08:00)
+2020-05-02 16:06:20,477 INFO 5553 [egg:core] dump config after ready, 3ms
+2020-05-02 16:06:55,739 INFO 5570 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:06:55,757 INFO 5570 [egg-multipart] stream mode enable
+2020-05-02 16:06:55,758 INFO 5570 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:06:55,806 INFO 5570 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:06:55,808 INFO 5570 [egg-security] use methodnoallow middleware
+2020-05-02 16:06:55,808 INFO 5570 [egg-security] use noopen middleware
+2020-05-02 16:06:55,808 INFO 5570 [egg-security] use nosniff middleware
+2020-05-02 16:06:55,808 INFO 5570 [egg-security] use xssProtection middleware
+2020-05-02 16:06:55,809 INFO 5570 [egg-security] use xframe middleware
+2020-05-02 16:06:55,809 INFO 5570 [egg-security] use dta middleware
+2020-05-02 16:06:55,809 INFO 5570 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:06:55,817 INFO 5570 [egg:core] dump config after load, 4ms
+2020-05-02 16:06:55,832 INFO 5570 [egg-watcher:application] watcher start success
+2020-05-02 16:06:55,835 INFO 5570 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:06:55 GMT+0800 (GMT+08:00)
+2020-05-02 16:06:55,839 INFO 5570 [egg:core] dump config after ready, 2ms
+2020-05-02 16:08:12,654 INFO 5591 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:08:12,675 INFO 5591 [egg-multipart] stream mode enable
+2020-05-02 16:08:12,676 INFO 5591 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:08:12,731 INFO 5591 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:08:12,733 INFO 5591 [egg-security] use methodnoallow middleware
+2020-05-02 16:08:12,733 INFO 5591 [egg-security] use noopen middleware
+2020-05-02 16:08:12,733 INFO 5591 [egg-security] use nosniff middleware
+2020-05-02 16:08:12,733 INFO 5591 [egg-security] use xssProtection middleware
+2020-05-02 16:08:12,734 INFO 5591 [egg-security] use xframe middleware
+2020-05-02 16:08:12,734 INFO 5591 [egg-security] use dta middleware
+2020-05-02 16:08:12,734 INFO 5591 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:08:12,742 INFO 5591 [egg:core] dump config after load, 3ms
+2020-05-02 16:08:12,756 INFO 5591 [egg-watcher:application] watcher start success
+2020-05-02 16:08:12,759 INFO 5591 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:08:12 GMT+0800 (GMT+08:00)
+2020-05-02 16:08:12,764 INFO 5591 [egg:core] dump config after ready, 3ms
+2020-05-02 16:08:25,098 INFO 5604 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:08:25,120 INFO 5604 [egg-multipart] stream mode enable
+2020-05-02 16:08:25,120 INFO 5604 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:08:25,173 INFO 5604 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:08:25,175 INFO 5604 [egg-security] use methodnoallow middleware
+2020-05-02 16:08:25,175 INFO 5604 [egg-security] use noopen middleware
+2020-05-02 16:08:25,175 INFO 5604 [egg-security] use nosniff middleware
+2020-05-02 16:08:25,176 INFO 5604 [egg-security] use xssProtection middleware
+2020-05-02 16:08:25,176 INFO 5604 [egg-security] use xframe middleware
+2020-05-02 16:08:25,176 INFO 5604 [egg-security] use dta middleware
+2020-05-02 16:08:25,176 INFO 5604 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:08:25,184 INFO 5604 [egg:core] dump config after load, 4ms
+2020-05-02 16:08:25,198 INFO 5604 [egg-watcher:application] watcher start success
+2020-05-02 16:08:25,201 INFO 5604 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:08:25 GMT+0800 (GMT+08:00)
+2020-05-02 16:08:25,205 INFO 5604 [egg:core] dump config after ready, 2ms
+2020-05-02 16:12:30,418 INFO 5645 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:12:30,439 INFO 5645 [egg-multipart] stream mode enable
+2020-05-02 16:12:30,439 INFO 5645 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:12:30,487 INFO 5645 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:12:30,489 INFO 5645 [egg-security] use methodnoallow middleware
+2020-05-02 16:12:30,489 INFO 5645 [egg-security] use noopen middleware
+2020-05-02 16:12:30,489 INFO 5645 [egg-security] use nosniff middleware
+2020-05-02 16:12:30,490 INFO 5645 [egg-security] use xssProtection middleware
+2020-05-02 16:12:30,490 INFO 5645 [egg-security] use xframe middleware
+2020-05-02 16:12:30,490 INFO 5645 [egg-security] use dta middleware
+2020-05-02 16:12:30,490 INFO 5645 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:12:30,497 INFO 5645 [egg:core] dump config after load, 3ms
+2020-05-02 16:12:30,511 INFO 5645 [egg-watcher:application] watcher start success
+2020-05-02 16:12:30,514 INFO 5645 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:12:30 GMT+0800 (GMT+08:00)
+2020-05-02 16:12:30,518 INFO 5645 [egg:core] dump config after ready, 3ms
+2020-05-02 16:12:31,158 INFO 5647 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:12:31,179 INFO 5647 [egg-multipart] stream mode enable
+2020-05-02 16:12:31,180 INFO 5647 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:12:31,238 INFO 5647 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:12:31,240 INFO 5647 [egg-security] use methodnoallow middleware
+2020-05-02 16:12:31,240 INFO 5647 [egg-security] use noopen middleware
+2020-05-02 16:12:31,240 INFO 5647 [egg-security] use nosniff middleware
+2020-05-02 16:12:31,241 INFO 5647 [egg-security] use xssProtection middleware
+2020-05-02 16:12:31,241 INFO 5647 [egg-security] use xframe middleware
+2020-05-02 16:12:31,241 INFO 5647 [egg-security] use dta middleware
+2020-05-02 16:12:31,241 INFO 5647 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:12:31,250 INFO 5647 [egg:core] dump config after load, 4ms
+2020-05-02 16:12:31,268 INFO 5647 [egg-watcher:application] watcher start success
+2020-05-02 16:12:31,270 INFO 5647 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:12:31 GMT+0800 (GMT+08:00)
+2020-05-02 16:12:31,275 INFO 5647 [egg:core] dump config after ready, 3ms
+2020-05-02 16:19:00,748 INFO 6095 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:19:00,771 INFO 6095 [egg-multipart] stream mode enable
+2020-05-02 16:19:00,772 INFO 6095 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:19:00,830 INFO 6095 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:19:00,832 INFO 6095 [egg-security] use methodnoallow middleware
+2020-05-02 16:19:00,832 INFO 6095 [egg-security] use noopen middleware
+2020-05-02 16:19:00,832 INFO 6095 [egg-security] use nosniff middleware
+2020-05-02 16:19:00,832 INFO 6095 [egg-security] use xssProtection middleware
+2020-05-02 16:19:00,833 INFO 6095 [egg-security] use xframe middleware
+2020-05-02 16:19:00,833 INFO 6095 [egg-security] use dta middleware
+2020-05-02 16:19:00,833 INFO 6095 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:19:00,842 INFO 6095 [egg:core] dump config after load, 5ms
+2020-05-02 16:19:00,857 INFO 6095 [egg-watcher:application] watcher start success
+2020-05-02 16:19:00,860 INFO 6095 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:19:00 GMT+0800 (GMT+08:00)
+2020-05-02 16:19:00,864 INFO 6095 [egg:core] dump config after ready, 3ms
+2020-05-02 16:19:25,114 INFO 6106 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:19:25,135 INFO 6106 [egg-multipart] stream mode enable
+2020-05-02 16:19:25,135 INFO 6106 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:19:25,182 INFO 6106 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:19:25,183 INFO 6106 [egg-security] use methodnoallow middleware
+2020-05-02 16:19:25,184 INFO 6106 [egg-security] use noopen middleware
+2020-05-02 16:19:25,184 INFO 6106 [egg-security] use nosniff middleware
+2020-05-02 16:19:25,184 INFO 6106 [egg-security] use xssProtection middleware
+2020-05-02 16:19:25,184 INFO 6106 [egg-security] use xframe middleware
+2020-05-02 16:19:25,185 INFO 6106 [egg-security] use dta middleware
+2020-05-02 16:19:25,185 INFO 6106 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:19:25,193 INFO 6106 [egg:core] dump config after load, 4ms
+2020-05-02 16:19:25,207 INFO 6106 [egg-watcher:application] watcher start success
+2020-05-02 16:19:25,210 INFO 6106 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:19:25 GMT+0800 (GMT+08:00)
+2020-05-02 16:19:25,214 INFO 6106 [egg:core] dump config after ready, 3ms
+2020-05-02 16:21:10,294 INFO 6128 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:21:10,314 INFO 6128 [egg-multipart] stream mode enable
+2020-05-02 16:21:10,314 INFO 6128 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:21:10,375 INFO 6128 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:21:10,377 INFO 6128 [egg-security] use methodnoallow middleware
+2020-05-02 16:21:10,377 INFO 6128 [egg-security] use noopen middleware
+2020-05-02 16:21:10,377 INFO 6128 [egg-security] use nosniff middleware
+2020-05-02 16:21:10,377 INFO 6128 [egg-security] use xssProtection middleware
+2020-05-02 16:21:10,377 INFO 6128 [egg-security] use xframe middleware
+2020-05-02 16:21:10,378 INFO 6128 [egg-security] use dta middleware
+2020-05-02 16:21:10,378 INFO 6128 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:21:10,386 INFO 6128 [egg:core] dump config after load, 4ms
+2020-05-02 16:21:10,401 INFO 6128 [egg-watcher:application] watcher start success
+2020-05-02 16:21:10,404 INFO 6128 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:21:10 GMT+0800 (GMT+08:00)
+2020-05-02 16:21:10,408 INFO 6128 [egg:core] dump config after ready, 3ms
+2020-05-02 16:21:19,782 INFO 6138 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:21:19,803 INFO 6138 [egg-multipart] stream mode enable
+2020-05-02 16:21:19,803 INFO 6138 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:21:19,860 INFO 6138 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:21:19,862 INFO 6138 [egg-security] use methodnoallow middleware
+2020-05-02 16:21:19,862 INFO 6138 [egg-security] use noopen middleware
+2020-05-02 16:21:19,863 INFO 6138 [egg-security] use nosniff middleware
+2020-05-02 16:21:19,863 INFO 6138 [egg-security] use xssProtection middleware
+2020-05-02 16:21:19,863 INFO 6138 [egg-security] use xframe middleware
+2020-05-02 16:21:19,863 INFO 6138 [egg-security] use dta middleware
+2020-05-02 16:21:19,863 INFO 6138 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:21:19,872 INFO 6138 [egg:core] dump config after load, 4ms
+2020-05-02 16:21:19,888 INFO 6138 [egg-watcher:application] watcher start success
+2020-05-02 16:21:19,891 INFO 6138 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:21:19 GMT+0800 (GMT+08:00)
+2020-05-02 16:21:19,895 INFO 6138 [egg:core] dump config after ready, 2ms
+2020-05-02 16:23:53,306 INFO 6173 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:23:53,327 INFO 6173 [egg-multipart] stream mode enable
+2020-05-02 16:23:53,327 INFO 6173 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:23:53,378 INFO 6173 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:23:53,379 INFO 6173 [egg-security] use methodnoallow middleware
+2020-05-02 16:23:53,380 INFO 6173 [egg-security] use noopen middleware
+2020-05-02 16:23:53,380 INFO 6173 [egg-security] use nosniff middleware
+2020-05-02 16:23:53,380 INFO 6173 [egg-security] use xssProtection middleware
+2020-05-02 16:23:53,380 INFO 6173 [egg-security] use xframe middleware
+2020-05-02 16:23:53,380 INFO 6173 [egg-security] use dta middleware
+2020-05-02 16:23:53,380 INFO 6173 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:23:53,389 INFO 6173 [egg:core] dump config after load, 4ms
+2020-05-02 16:23:53,403 INFO 6173 [egg-watcher:application] watcher start success
+2020-05-02 16:23:53,405 INFO 6173 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:23:53 GMT+0800 (GMT+08:00)
+2020-05-02 16:23:53,409 INFO 6173 [egg:core] dump config after ready, 2ms
+2020-05-02 16:24:29,376 INFO 6183 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:24:29,396 INFO 6183 [egg-multipart] stream mode enable
+2020-05-02 16:24:29,396 INFO 6183 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:24:29,442 INFO 6183 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:24:29,444 INFO 6183 [egg-security] use methodnoallow middleware
+2020-05-02 16:24:29,444 INFO 6183 [egg-security] use noopen middleware
+2020-05-02 16:24:29,444 INFO 6183 [egg-security] use nosniff middleware
+2020-05-02 16:24:29,445 INFO 6183 [egg-security] use xssProtection middleware
+2020-05-02 16:24:29,445 INFO 6183 [egg-security] use xframe middleware
+2020-05-02 16:24:29,445 INFO 6183 [egg-security] use dta middleware
+2020-05-02 16:24:29,445 INFO 6183 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:24:29,452 INFO 6183 [egg:core] dump config after load, 3ms
+2020-05-02 16:24:29,466 INFO 6183 [egg-watcher:application] watcher start success
+2020-05-02 16:24:29,469 INFO 6183 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:24:29 GMT+0800 (GMT+08:00)
+2020-05-02 16:24:29,473 INFO 6183 [egg:core] dump config after ready, 2ms
+2020-05-02 16:56:22,874 INFO 8113 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-02 16:56:22,907 INFO 8113 [egg-multipart] stream mode enable
+2020-05-02 16:56:22,907 INFO 8113 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-02 16:56:23,120 INFO 8113 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-02 16:56:23,123 INFO 8113 [egg-security] use methodnoallow middleware
+2020-05-02 16:56:23,125 INFO 8113 [egg-security] use noopen middleware
+2020-05-02 16:56:23,126 INFO 8113 [egg-security] use nosniff middleware
+2020-05-02 16:56:23,128 INFO 8113 [egg-security] use xssProtection middleware
+2020-05-02 16:56:23,129 INFO 8113 [egg-security] use xframe middleware
+2020-05-02 16:56:23,130 INFO 8113 [egg-security] use dta middleware
+2020-05-02 16:56:23,131 INFO 8113 [egg-security] compose 6 middlewares into one security middleware
+2020-05-02 16:56:23,149 INFO 8113 [egg:core] dump config after load, 7ms
+2020-05-02 16:56:23,168 INFO 8113 [egg-watcher:application] watcher start success
+2020-05-02 16:56:23,169 INFO 8113 [egg-mysql] instance[0] status OK, rds currentTime: Sat May 02 2020 16:56:23 GMT+0800 (GMT+08:00)
+2020-05-02 16:56:23,175 INFO 8113 [egg:core] dump config after ready, 3ms
+2020-05-03 05:36:05,320 WARN 8113 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-05-03 05:36:05,338 WARN 8113 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-03 14:30:21,147 WARN 8113 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-03 14:34:37,667 INFO 12545 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-03 14:34:37,690 INFO 12545 [egg-multipart] stream mode enable
+2020-05-03 14:34:37,690 INFO 12545 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-03 14:34:37,933 INFO 12545 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-03 14:34:37,935 INFO 12545 [egg-security] use methodnoallow middleware
+2020-05-03 14:34:37,936 INFO 12545 [egg-security] use noopen middleware
+2020-05-03 14:34:37,937 INFO 12545 [egg-security] use nosniff middleware
+2020-05-03 14:34:37,938 INFO 12545 [egg-security] use xssProtection middleware
+2020-05-03 14:34:37,939 INFO 12545 [egg-security] use xframe middleware
+2020-05-03 14:34:37,940 INFO 12545 [egg-security] use dta middleware
+2020-05-03 14:34:37,940 INFO 12545 [egg-security] compose 6 middlewares into one security middleware
+2020-05-03 14:34:37,953 INFO 12545 [egg:core] dump config after load, 6ms
+2020-05-03 14:34:37,973 INFO 12545 [egg-watcher:application] watcher start success
+2020-05-03 14:34:38,006 INFO 12545 [egg-mysql] instance[0] status OK, rds currentTime: Sun May 03 2020 14:34:37 GMT+0800 (GMT+08:00)
+2020-05-03 14:34:38,016 INFO 12545 [egg:core] dump config after ready, 9ms
+2020-05-03 16:06:27,796 INFO 17849 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-03 16:06:27,846 INFO 17849 [egg-multipart] stream mode enable
+2020-05-03 16:06:27,847 INFO 17849 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-03 16:06:28,071 INFO 17849 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-03 16:06:28,073 INFO 17849 [egg-security] use methodnoallow middleware
+2020-05-03 16:06:28,074 INFO 17849 [egg-security] use noopen middleware
+2020-05-03 16:06:28,075 INFO 17849 [egg-security] use nosniff middleware
+2020-05-03 16:06:28,076 INFO 17849 [egg-security] use xssProtection middleware
+2020-05-03 16:06:28,077 INFO 17849 [egg-security] use xframe middleware
+2020-05-03 16:06:28,077 INFO 17849 [egg-security] use dta middleware
+2020-05-03 16:06:28,077 INFO 17849 [egg-security] compose 6 middlewares into one security middleware
+2020-05-03 16:06:28,091 INFO 17849 [egg:core] dump config after load, 7ms
+2020-05-03 16:06:28,107 INFO 17849 [egg-watcher:application] watcher start success
+2020-05-03 16:06:28,110 INFO 17849 [egg-mysql] instance[0] status OK, rds currentTime: Sun May 03 2020 16:06:28 GMT+0800 (GMT+08:00)
+2020-05-03 16:06:28,116 INFO 17849 [egg:core] dump config after ready, 4ms
+2020-05-03 16:06:32,636 INFO 17858 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-03 16:06:32,656 INFO 17858 [egg-multipart] stream mode enable
+2020-05-03 16:06:32,657 INFO 17858 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-03 16:06:32,702 INFO 17858 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-03 16:06:32,704 INFO 17858 [egg-security] use methodnoallow middleware
+2020-05-03 16:06:32,704 INFO 17858 [egg-security] use noopen middleware
+2020-05-03 16:06:32,704 INFO 17858 [egg-security] use nosniff middleware
+2020-05-03 16:06:32,705 INFO 17858 [egg-security] use xssProtection middleware
+2020-05-03 16:06:32,705 INFO 17858 [egg-security] use xframe middleware
+2020-05-03 16:06:32,705 INFO 17858 [egg-security] use dta middleware
+2020-05-03 16:06:32,705 INFO 17858 [egg-security] compose 6 middlewares into one security middleware
+2020-05-03 16:06:32,715 INFO 17858 [egg:core] dump config after load, 4ms
+2020-05-03 16:06:32,730 INFO 17858 [egg-watcher:application] watcher start success
+2020-05-03 16:06:32,733 INFO 17858 [egg-mysql] instance[0] status OK, rds currentTime: Sun May 03 2020 16:06:32 GMT+0800 (GMT+08:00)
+2020-05-03 16:06:32,737 INFO 17858 [egg:core] dump config after ready, 3ms
+2020-05-03 16:07:59,047 INFO 17904 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-03 16:07:59,067 INFO 17904 [egg-multipart] stream mode enable
+2020-05-03 16:07:59,067 INFO 17904 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-03 16:07:59,116 INFO 17904 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-03 16:07:59,117 INFO 17904 [egg-security] use methodnoallow middleware
+2020-05-03 16:07:59,118 INFO 17904 [egg-security] use noopen middleware
+2020-05-03 16:07:59,118 INFO 17904 [egg-security] use nosniff middleware
+2020-05-03 16:07:59,118 INFO 17904 [egg-security] use xssProtection middleware
+2020-05-03 16:07:59,118 INFO 17904 [egg-security] use xframe middleware
+2020-05-03 16:07:59,118 INFO 17904 [egg-security] use dta middleware
+2020-05-03 16:07:59,118 INFO 17904 [egg-security] compose 6 middlewares into one security middleware
+2020-05-03 16:07:59,126 INFO 17904 [egg:core] dump config after load, 4ms
+2020-05-03 16:07:59,140 INFO 17904 [egg-watcher:application] watcher start success
+2020-05-03 16:07:59,143 INFO 17904 [egg-mysql] instance[0] status OK, rds currentTime: Sun May 03 2020 16:07:59 GMT+0800 (GMT+08:00)
+2020-05-03 16:07:59,148 INFO 17904 [egg:core] dump config after ready, 4ms
+2020-05-03 16:13:02,612 INFO 17945 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-03 16:13:02,634 INFO 17945 [egg-multipart] stream mode enable
+2020-05-03 16:13:02,635 INFO 17945 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-03 16:13:02,684 INFO 17945 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-03 16:13:02,686 INFO 17945 [egg-security] use methodnoallow middleware
+2020-05-03 16:13:02,686 INFO 17945 [egg-security] use noopen middleware
+2020-05-03 16:13:02,686 INFO 17945 [egg-security] use nosniff middleware
+2020-05-03 16:13:02,686 INFO 17945 [egg-security] use xssProtection middleware
+2020-05-03 16:13:02,687 INFO 17945 [egg-security] use xframe middleware
+2020-05-03 16:13:02,687 INFO 17945 [egg-security] use dta middleware
+2020-05-03 16:13:02,687 INFO 17945 [egg-security] compose 6 middlewares into one security middleware
+2020-05-03 16:13:02,694 INFO 17945 [egg:core] dump config after load, 3ms
+2020-05-03 16:13:02,709 INFO 17945 [egg-watcher:application] watcher start success
+2020-05-03 16:13:02,711 INFO 17945 [egg-mysql] instance[0] status OK, rds currentTime: Sun May 03 2020 16:13:02 GMT+0800 (GMT+08:00)
+2020-05-03 16:13:02,716 INFO 17945 [egg:core] dump config after ready, 3ms
+2020-05-03 16:13:58,346 INFO 17960 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-03 16:13:58,369 INFO 17960 [egg-multipart] stream mode enable
+2020-05-03 16:13:58,369 INFO 17960 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-03 16:13:58,421 INFO 17960 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-03 16:13:58,422 INFO 17960 [egg-security] use methodnoallow middleware
+2020-05-03 16:13:58,423 INFO 17960 [egg-security] use noopen middleware
+2020-05-03 16:13:58,423 INFO 17960 [egg-security] use nosniff middleware
+2020-05-03 16:13:58,423 INFO 17960 [egg-security] use xssProtection middleware
+2020-05-03 16:13:58,423 INFO 17960 [egg-security] use xframe middleware
+2020-05-03 16:13:58,424 INFO 17960 [egg-security] use dta middleware
+2020-05-03 16:13:58,424 INFO 17960 [egg-security] compose 6 middlewares into one security middleware
+2020-05-03 16:13:58,431 INFO 17960 [egg:core] dump config after load, 3ms
+2020-05-03 16:13:58,445 INFO 17960 [egg-watcher:application] watcher start success
+2020-05-03 16:13:58,448 INFO 17960 [egg-mysql] instance[0] status OK, rds currentTime: Sun May 03 2020 16:13:58 GMT+0800 (GMT+08:00)
+2020-05-03 16:13:58,453 INFO 17960 [egg:core] dump config after ready, 3ms
+2020-05-03 16:44:54,188 INFO 18844 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-03 16:44:54,222 INFO 18844 [egg-multipart] stream mode enable
+2020-05-03 16:44:54,222 INFO 18844 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-03 16:44:54,323 INFO 18844 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-03 16:44:54,326 INFO 18844 [egg-security] use methodnoallow middleware
+2020-05-03 16:44:54,328 INFO 18844 [egg-security] use noopen middleware
+2020-05-03 16:44:54,331 INFO 18844 [egg-security] use nosniff middleware
+2020-05-03 16:44:54,332 INFO 18844 [egg-security] use xssProtection middleware
+2020-05-03 16:44:54,333 INFO 18844 [egg-security] use xframe middleware
+2020-05-03 16:44:54,335 INFO 18844 [egg-security] use dta middleware
+2020-05-03 16:44:54,335 INFO 18844 [egg-security] compose 6 middlewares into one security middleware
+2020-05-03 16:44:54,349 INFO 18844 [egg:core] dump config after load, 9ms
+2020-05-03 16:44:54,363 INFO 18844 [egg-watcher:application] watcher start success
+2020-05-03 16:44:54,366 INFO 18844 [egg-mysql] instance[0] status OK, rds currentTime: Sun May 03 2020 16:44:54 GMT+0800 (GMT+08:00)
+2020-05-03 16:44:54,370 INFO 18844 [egg:core] dump config after ready, 2ms
+2020-05-03 16:48:55,082 INFO 18896 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-03 16:48:55,102 INFO 18896 [egg-multipart] stream mode enable
+2020-05-03 16:48:55,102 INFO 18896 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-03 16:48:55,154 INFO 18896 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-03 16:48:55,155 INFO 18896 [egg-security] use methodnoallow middleware
+2020-05-03 16:48:55,156 INFO 18896 [egg-security] use noopen middleware
+2020-05-03 16:48:55,156 INFO 18896 [egg-security] use nosniff middleware
+2020-05-03 16:48:55,156 INFO 18896 [egg-security] use xssProtection middleware
+2020-05-03 16:48:55,156 INFO 18896 [egg-security] use xframe middleware
+2020-05-03 16:48:55,157 INFO 18896 [egg-security] use dta middleware
+2020-05-03 16:48:55,157 INFO 18896 [egg-security] compose 6 middlewares into one security middleware
+2020-05-03 16:48:55,164 INFO 18896 [egg:core] dump config after load, 3ms
+2020-05-03 16:48:55,179 INFO 18896 [egg-watcher:application] watcher start success
+2020-05-03 16:48:55,182 INFO 18896 [egg-mysql] instance[0] status OK, rds currentTime: Sun May 03 2020 16:48:55 GMT+0800 (GMT+08:00)
+2020-05-03 16:48:55,187 INFO 18896 [egg:core] dump config after ready, 3ms
+2020-05-03 22:49:32,251 WARN 18896 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-03 23:30:06,439 WARN 18896 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-04 00:10:31,628 WARN 18896 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-05-04 00:10:31,629 WARN 18896 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-04 00:46:30,788 WARN 18896 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-05-04 10:31:38,339 INFO 30281 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-05-04 10:31:38,362 INFO 30281 [egg-multipart] stream mode enable
+2020-05-04 10:31:38,362 INFO 30281 [egg-mysql] connecting root@127.0.0.1:3306/shopping
+2020-05-04 10:31:38,562 INFO 30281 [egg-static] starting static serve /public/ -> /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/public
+2020-05-04 10:31:38,565 INFO 30281 [egg-security] use methodnoallow middleware
+2020-05-04 10:31:38,565 INFO 30281 [egg-security] use noopen middleware
+2020-05-04 10:31:38,566 INFO 30281 [egg-security] use nosniff middleware
+2020-05-04 10:31:38,566 INFO 30281 [egg-security] use xssProtection middleware
+2020-05-04 10:31:38,566 INFO 30281 [egg-security] use xframe middleware
+2020-05-04 10:31:38,567 INFO 30281 [egg-security] use dta middleware
+2020-05-04 10:31:38,568 INFO 30281 [egg-security] compose 6 middlewares into one security middleware
+2020-05-04 10:31:38,584 INFO 30281 [egg:core] dump config after load, 7ms
+2020-05-04 10:31:38,601 INFO 30281 [egg-watcher:application] watcher start success
+2020-05-04 10:31:38,605 INFO 30281 [egg-mysql] instance[0] status OK, rds currentTime: Mon May 04 2020 10:31:38 GMT+0800 (GMT+08:00)
+2020-05-04 10:31:38,609 INFO 30281 [egg:core] dump config after ready, 3ms

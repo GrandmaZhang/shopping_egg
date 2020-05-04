@@ -175,6 +175,45 @@ class GoodsController extends Controller {
       };
     }
   }
+  async deleteCartItem() {
+    const { ctx } = this;
+    const { goodsId } = ctx.request.body;
+    try {
+      await ctx.service.goods.deleteCartItem(goodsId);
+      ctx.body = {
+        code: 0,
+        success: true,
+        data: true
+      };
+    } catch (err) {
+      ctx.body = {
+        code: -2,
+        success: false,
+        msg: "删除商品失败"
+      };
+    }
+  }
+  async getGoodsById() {
+    const { ctx } = this;
+    const { id } = ctx.query;
+    try {
+      const goods = await ctx.service.goods.getGoodsById(id);
+      const curGoods = goods[0];
+      curGoods.url = JSON.parse(curGoods.url);
+      ctx.body = {
+        code: 0,
+        success: true,
+        data: curGoods
+      };
+    } catch (err) {
+      console.log(err, "err");
+      ctx.body = {
+        code: -2,
+        success: false,
+        msg: "获取商品详情失败"
+      };
+    }
+  }
 }
 
 module.exports = GoodsController;

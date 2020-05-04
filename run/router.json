@@ -147,6 +147,19 @@
       "GET"
     ],
     "paramNames": [],
+    "path": "/goods/detail",
+    "regexp": "/^\\/goods\\/detail(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
     "path": "/get-cart-item",
     "regexp": "/^\\/get-cart-item(?:\\/(?=$))?$/",
     "stack": [
@@ -235,6 +248,18 @@
     "paramNames": [],
     "path": "/delete-goods",
     "regexp": "/^\\/delete-goods(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/delete-cart-item",
+    "regexp": "/^\\/delete-cart-item(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]

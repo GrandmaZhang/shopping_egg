@@ -1,6 +1,6 @@
-'use strict';
+"use strict";
 
-const Controller = require('egg').Controller;
+const Controller = require("egg").Controller;
 
 class OrderController extends Controller {
   async getOrdersByUserId() {
@@ -11,13 +11,13 @@ class OrderController extends Controller {
       ctx.body = {
         code: 0,
         success: true,
-        data: orders,
+        data: orders
       };
     } catch (err) {
       ctx.body = {
         code: -2,
         success: false,
-        msg: '获取订单失败',
+        msg: "获取订单失败"
       };
     }
   }
@@ -27,18 +27,23 @@ class OrderController extends Controller {
     try {
       // 在这里需要把物品各个数据分插到各个商家
       const order = await ctx.service.order.addOrder(userId, goods);
-      await ctx.service.user.updateMoneyAndShoppingCart(userId, price, order.insertId);
-      await ctx.service.goods.deleteCartItem(userId);
+      await ctx.service.user.updateMoneyAndShoppingCart(
+        userId,
+        price,
+        order.insertId
+      );
+      await ctx.service.goods.clearCartItem(userId);
       ctx.body = {
         code: 0,
         success: true,
-        data: true,
+        data: true
       };
     } catch (err) {
+      console.log(err);
       ctx.body = {
         code: -2,
         success: false,
-        msg: '新增订单失败',
+        msg: "新增订单失败"
       };
     }
   }
@@ -50,13 +55,13 @@ class OrderController extends Controller {
       ctx.body = {
         code: 0,
         success: true,
-        data: true,
+        data: true
       };
     } catch (err) {
       ctx.body = {
         code: -2,
         success: false,
-        msg: '取消订单失败',
+        msg: "取消订单失败"
       };
     }
   }
@@ -68,13 +73,13 @@ class OrderController extends Controller {
       ctx.body = {
         code: 0,
         success: true,
-        data: true,
+        data: true
       };
     } catch (err) {
       ctx.body = {
         code: -2,
         success: false,
-        msg: '取消订单失败',
+        msg: "取消订单失败"
       };
     }
   }

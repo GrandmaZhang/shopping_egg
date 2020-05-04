@@ -7,3 +7,99 @@
 2020-04-29 21:13:31,266 INFO 902 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
 2020-04-29 21:13:31,266 INFO 902 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
 2020-04-29 21:13:31,266 INFO 902 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 15:22:18,618 INFO 2473 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 15:22:18,618 INFO 2473 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 15:22:18,618 INFO 2473 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 15:22:18,932 INFO 2472 [Timer] /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47261071ms at 2020-05-03 04:30:00.003
+2020-05-02 15:22:18,932 INFO 2472 [Timer] /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31061068ms at 2020-05-03 00:00:00.000
+2020-05-02 15:22:18,933 INFO 2472 [Timer] /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31062068ms at 2020-05-03 00:00:01.001
+2020-05-02 15:51:55,427 INFO 5032 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 15:51:55,427 INFO 5032 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 15:51:55,427 INFO 5032 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 15:53:36,903 INFO 5070 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 15:53:36,903 INFO 5070 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 15:53:36,903 INFO 5070 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 15:53:56,409 INFO 5082 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 15:53:56,409 INFO 5082 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 15:53:56,409 INFO 5082 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:03:33,231 INFO 5486 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:03:33,231 INFO 5486 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:03:33,231 INFO 5486 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:04:28,642 INFO 5516 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:04:28,642 INFO 5516 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:04:28,642 INFO 5516 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:04:51,169 INFO 5536 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:04:51,169 INFO 5536 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:04:51,169 INFO 5536 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:06:20,389 INFO 5553 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:06:20,389 INFO 5553 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:06:20,389 INFO 5553 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:06:55,757 INFO 5570 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:06:55,757 INFO 5570 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:06:55,757 INFO 5570 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:08:12,675 INFO 5591 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:08:12,675 INFO 5591 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:08:12,675 INFO 5591 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:08:25,120 INFO 5604 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:08:25,120 INFO 5604 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:08:25,120 INFO 5604 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:12:30,438 INFO 5645 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:12:30,438 INFO 5645 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:12:30,438 INFO 5645 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:12:31,179 INFO 5647 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:12:31,179 INFO 5647 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:12:31,179 INFO 5647 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:19:00,770 INFO 6095 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:19:00,770 INFO 6095 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:19:00,771 INFO 6095 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:19:25,134 INFO 6106 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:19:25,134 INFO 6106 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:19:25,134 INFO 6106 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:21:10,313 INFO 6128 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:21:10,314 INFO 6128 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:21:10,314 INFO 6128 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:21:19,803 INFO 6138 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:21:19,803 INFO 6138 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:21:19,803 INFO 6138 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:23:53,327 INFO 6173 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:23:53,327 INFO 6173 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:23:53,327 INFO 6173 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:24:29,395 INFO 6183 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:24:29,395 INFO 6183 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:24:29,395 INFO 6183 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-02 16:56:22,906 INFO 8113 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-02 16:56:22,906 INFO 8113 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-02 16:56:22,906 INFO 8113 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-03 14:34:37,689 INFO 12545 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-03 14:34:37,689 INFO 12545 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-03 14:34:37,689 INFO 12545 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-03 14:34:38,023 INFO 12540 [Timer] /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 50121981ms at 2020-05-04 04:30:00.004
+2020-05-03 14:34:38,023 INFO 12540 [Timer] /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33921977ms at 2020-05-04 00:00:00.000
+2020-05-03 14:34:38,024 INFO 12540 [Timer] /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33922977ms at 2020-05-04 00:00:01.001
+2020-05-03 16:06:27,845 INFO 17849 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-03 16:06:27,845 INFO 17849 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-03 16:06:27,845 INFO 17849 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-03 16:06:32,656 INFO 17858 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-03 16:06:32,656 INFO 17858 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-03 16:06:32,656 INFO 17858 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-03 16:07:59,066 INFO 17904 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-03 16:07:59,066 INFO 17904 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-03 16:07:59,066 INFO 17904 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-03 16:13:02,634 INFO 17945 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-03 16:13:02,634 INFO 17945 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-03 16:13:02,634 INFO 17945 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-03 16:13:58,368 INFO 17960 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-03 16:13:58,368 INFO 17960 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-03 16:13:58,368 INFO 17960 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-03 16:44:54,220 INFO 18844 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-03 16:44:54,220 INFO 18844 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-03 16:44:54,220 INFO 18844 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-03 16:48:55,101 INFO 18896 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-03 16:48:55,101 INFO 18896 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-03 16:48:55,101 INFO 18896 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-04 10:31:38,361 INFO 30281 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-05-04 10:31:38,361 INFO 30281 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-05-04 10:31:38,362 INFO 30281 [egg-schedule]: register schedule /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-05-04 10:31:38,614 INFO 30280 [Timer] /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 64701389ms at 2020-05-05 04:30:00.003
+2020-05-04 10:31:38,614 INFO 30280 [Timer] /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 48501386ms at 2020-05-05 00:00:00.000
+2020-05-04 10:31:38,615 INFO 30280 [Timer] /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 48502386ms at 2020-05-05 00:00:01.001

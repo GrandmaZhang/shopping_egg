@@ -27,7 +27,7 @@ class GoodsService extends Service {
     });
     return items;
   }
-  async addGoodsCart(goodsId, number, userId) {
+  async addGoodsCart(goodsId, number = 1, userId) {
     const { app } = this;
     const item = await app.mysql.select("shopping_cart", {
       where: { goodsId }
@@ -65,9 +65,14 @@ class GoodsService extends Service {
     );
     return result;
   }
-  async deleteCartItem(userId) {
+  async clearCartItem(userId) {
     const { app } = this;
     const result = await app.mysql.delete("shopping_cart", { userId });
+    return result;
+  }
+  async deleteCartItem(goodsId) {
+    const { app } = this;
+    const result = await app.mysql.delete("shopping_cart", { goodsId });
     return result;
   }
   async addGoods(row) {
