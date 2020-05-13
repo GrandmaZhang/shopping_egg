@@ -2,6 +2,10 @@
 
 const Service = require("egg").Service;
 class UserService extends Service {
+  async say() {
+    return "Hello Man!";
+  }
+
   async getList() {
     const { app } = this;
     const users = await app.mysql.get("user");

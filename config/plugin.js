@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 /** @type Egg.EggPlugin */
 // module.exports = {
@@ -10,5 +10,10 @@
 
 exports.mysql = {
   enable: true, // 开启
-  package: 'egg-mysql', // 对应哪个包
+  package: "egg-mysql" // 对应哪个包
+};
+
+exports.io = {
+  enable: true,
+  package: "egg-socket.io"
 };

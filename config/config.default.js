@@ -1,6 +1,6 @@
 /* eslint valid-jsdoc: "off" */
 
-'use strict';
+"use strict";
 
 /**
  * @param {Egg.EggAppInfo} appInfo app info
@@ -13,7 +13,7 @@ module.exports = appInfo => {
   const config = (exports = {});
 
   // use for cookie sign key, should change to your own and keep security
-  config.keys = appInfo.name + '_1576487261720_3684';
+  config.keys = appInfo.name + "_1576487261720_3684";
 
   // add your middleware config here
   config.middleware = [];
@@ -24,22 +24,33 @@ module.exports = appInfo => {
   };
   const mysql = {
     client: {
-      host: '127.0.0.1',
-      port: '3306',
-      user: 'root',
-      password: 'ML1998ml',
-      database: 'shopping',
+      host: "127.0.0.1",
+      port: "3306",
+      user: "root",
+      password: "ML1998ml",
+      database: "shopping"
     },
     app: true,
-    agent: false,
+    agent: false
   };
   config.mysql = mysql;
   config.security = {
-    csrf: false,
+    csrf: false
   };
+
+  const ws = {
+    namespace: {
+      "/": {
+        connectionMiddleware: [],
+        packetMiddleware: [] // 针对消息的处理暂时不实现
+      }
+    }
+  };
+
+  config.io = ws;
 
   return {
     ...config,
-    ...userConfig,
+    ...userConfig
   };
 };

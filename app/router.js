@@ -4,7 +4,7 @@
  * @param {Egg.Application} app - egg application
  */
 module.exports = app => {
-  const { router, controller } = app;
+  const { router, controller, io } = app;
   router.get("/", controller.home.index);
   router.get("/user", controller.user.getUserList);
   router.get("/userInfo", controller.user.getUserInfo);
@@ -26,4 +26,18 @@ module.exports = app => {
   router.post("/add-goods", controller.goods.addGoods);
   router.post("/delete-goods", controller.goods.deleteGoods);
   router.post("/delete-cart-item", controller.goods.deleteCartItem);
+
+  // app.io.of('/')
+  app.io.route("statusChange", app.io.controller.chat.index);
+
+  // app.io.of('/chat')
+  app.io
+    .of("/statusChange")
+    .route("statusChange", app.io.controller.chat.index);
+
+  // // app.io.of('/')
+  // app.io.route("buyer", app.io.controller.chat.connectBuyer);
+
+  // // app.io.of('/chat')
+  // app.io.of("/buyer").route("buyer", app.io.controller.chat.connectBuyer);
 };

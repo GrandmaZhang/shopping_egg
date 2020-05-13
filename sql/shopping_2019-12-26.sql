@@ -158,15 +158,7 @@ DROP TABLE IF EXISTS `banners`;
 CREATE TABLE `banners` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci DEFAULT NULL,
-  -- `remain` int(11) NOT NULL DEFAULT '0',
   `url` json DEFAULT NULL,
-  -- `price` float NOT NULL DEFAULT '0',
-  -- `sold` int(11) NOT NULL DEFAULT '0',
-  -- `isDeleted` tinyint(1) NOT NULL DEFAULT '0',
-  -- `desc` varchar(1000) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NOT NULL DEFAULT '',
-  -- `categoryId` int(11) DEFAULT NULL,
-  -- `businessId` int(11) DEFAULT '0',
-  -- `isBanner` tinyint(1) NOT NULL DEFAULT '0',
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 

@@ -50,6 +50,7 @@ class OrderController extends Controller {
   async cancelOrder() {
     const { ctx } = this;
     const { id, order, status } = ctx.request.body;
+
     try {
       await ctx.service.order.cancelOrder(id, order, status);
       ctx.body = {
@@ -57,6 +58,7 @@ class OrderController extends Controller {
         success: true,
         data: true
       };
+      this.ctx.socket.emit("res", "hihihihihi");
     } catch (err) {
       ctx.body = {
         code: -2,
@@ -65,6 +67,61 @@ class OrderController extends Controller {
       };
     }
   }
+
+  async changeOrderStatus() {
+    const { ctx, app } = this;
+    const { id, order, status } = ctx.request.body;
+
+    const nsp = app.io.of("/");
+    // const message = ctx.args[0] || {};
+    // const socket = ctx.socket;
+    // const client = socket.id;
+
+    try {
+      await ctx.service.order.cancelOrder(id, order, status);
+      ctx.body = {
+        code: 0,
+        success: true,
+        data: true
+      };
+
+      const message = `status=${status}`;
+      try {
+        // await ctx.socket.emit("news", `Hi! I've got your message: ${message}`);
+        // console.log("success!!!");
+        // nsp.emit("http://192.168.31.60:8080", "message!!!!!");
+        this.ctx.socket.emit("res", "hihihihihi");
+      } catch (e) {
+        console.log(e);
+      }
+      console.log(message, "message");
+    } catch (err) {
+      console.log(err);
+      ctx.body = {
+        code: -2,
+        success: false,
+        msg: "取消订单失败"
+      };
+    }
+  }
+
+  // async changeOrderWs() {
+  //   const { ctx, app } = this;
+  //   const { id, order, status } = ctx.request.body;
+  //   try {
+  //     const message = `status=${status}`;
+  //     await ctx.socket.emit("res", `Hi! I've got your message: ${message}`);
+  //     console.log(message, "message");
+  //   } catch (err) {
+  //     console.log(err);
+  //     ctx.body = {
+  //       code: -2,
+  //       success: false,
+  //       msg: "订单状态更新失败"
+  //     };
+  //   }
+  // }
+
   async deleteOrder() {
     const { ctx } = this;
     const { id } = ctx.request.body;

@@ -94,6 +94,7 @@
         "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-static/config/locales",
         "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-view/config/locales",
         "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-mysql/config/locales",
+        "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-socket.io/config/locales",
         "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/locales",
         "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/locales"
       ],
@@ -181,6 +182,18 @@
         "database": "shopping"
       }
     },
+    "io": {
+      "init": {
+        "path": "/socket.io",
+        "allowRequest": "<Function bound >"
+      },
+      "namespace": {
+        "/": {
+          "connectionMiddleware": [],
+          "packetMiddleware": []
+        }
+      }
+    },
     "env": "local",
     "name": "shopping-system-backend",
     "keys": "<String len: 42>",
@@ -202,7 +215,8 @@
       "dependencies": {
         "egg": "^2.15.1",
         "egg-mysql": "^3.0.0",
-        "egg-scripts": "^2.11.0"
+        "egg-scripts": "^2.11.0",
+        "egg-socket.io": "^4.1.6"
       },
       "devDependencies": {
         "autod": "^3.0.1",
@@ -514,6 +528,19 @@
       "from": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/plugin.js",
       "path": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-mysql",
       "version": "3.0.0"
+    },
+    "io": {
+      "enable": true,
+      "package": "egg-socket.io",
+      "name": "io",
+      "dependencies": [
+        "session"
+      ],
+      "optionalDependencies": [],
+      "env": [],
+      "from": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/plugin.js",
+      "path": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-socket.io",
+      "version": "4.1.6"
     }
   }
 }

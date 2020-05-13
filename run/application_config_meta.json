@@ -59,6 +59,15 @@
       "checkAddress": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
     }
   },
+  "io": {
+    "namespace": {
+      "/": {
+        "connectionMiddleware": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js",
+        "packetMiddleware": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js"
+      }
+    },
+    "init": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-socket.io/config/config.default.js"
+  },
   "session": {
     "maxAge": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-session/config/config.default.js",
     "key": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-session/config/config.default.js",
@@ -169,7 +178,8 @@
     "dependencies": {
       "egg": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
       "egg-mysql": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "egg-scripts": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "egg-scripts": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "egg-socket.io": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
       "autod": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
