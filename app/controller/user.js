@@ -1,6 +1,6 @@
-'use strict';
+"use strict";
 
-const Controller = require('egg').Controller;
+const Controller = require("egg").Controller;
 
 class UserController extends Controller {
   async getUserList() {
@@ -11,17 +11,30 @@ class UserController extends Controller {
   }
   async getUserInfo() {
     const { ctx } = this;
-    const userCookie = ctx.cookies.get('login', { encrypt: true });
+    const userCookie = ctx.cookies.get("login", { encrypt: true });
     if (!userCookie) {
-      ctx.body = { code: -1, msg: '未登录' };
+      ctx.body = { code: -1, msg: "未登录" };
     } else {
       try {
         const { id } = JSON.parse(userCookie);
         const userInfo = await ctx.service.user.getUserById(id);
         ctx.body = userInfo;
       } catch (err) {
-        ctx.body = { code: -1, msg: '未登录' };
+        ctx.body = { code: -1, msg: "未登录" };
       }
+    }
+  }
+  async updateUserInfo() {
+    const { ctx } = this;
+    const userInfo = ctx.request.body;
+    try {
+      await ctx.service.user.updateUser(userInfo);
+      ctx.body = {
+        code: 0,
+        msg: "修改成功"
+      };
+    } catch (err) {
+      ctx.body = { code: -1, msg: "个人信息修改失败" };
     }
   }
   async updateMoney(userId, price) {

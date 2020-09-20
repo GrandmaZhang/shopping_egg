@@ -1,11 +1,131 @@
-2020-05-13 10:37:53,299 INFO 52016 [egg-logrotator] agent logger reload: got log-reload message
-2020-05-13 10:41:58,874 INFO 84268 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
-2020-05-13 10:41:58,888 INFO 84268 [egg:core] dump config after load, 8ms
-2020-05-13 10:41:58,953 INFO 84268 [egg-watcher] Start watching: ["/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app","/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config","/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/mocks","/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/mocks_proxy","/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app.js"]
-2020-05-13 10:41:58,953 INFO 84268 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app"
-2020-05-13 10:41:58,953 INFO 84268 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config"
-2020-05-13 10:41:58,954 INFO 84268 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/mocks"
-2020-05-13 10:41:58,954 INFO 84268 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/mocks_proxy"
-2020-05-13 10:41:58,954 INFO 84268 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app.js"
-2020-05-13 10:41:58,954 INFO 84268 [egg-watcher:agent] watcher start success
-2020-05-13 10:41:58,972 INFO 84268 [egg:core] dump config after ready, 7ms
+2020-06-04 19:42:56,500 INFO 13413 [egg-logrotator] agent logger reload: got log-reload message
+2020-06-05 12:45:53,582 INFO 3027 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-05 12:45:53,594 INFO 3027 [egg:core] dump config after load, 4ms
+2020-06-05 12:45:53,636 INFO 3027 [egg-watcher] Start watching: ["/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app","/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config","/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/mocks","/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/mocks_proxy","/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app.js"]
+2020-06-05 12:45:53,636 INFO 3027 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app"
+2020-06-05 12:45:53,636 INFO 3027 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config"
+2020-06-05 12:45:53,636 INFO 3027 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/mocks"
+2020-06-05 12:45:53,636 INFO 3027 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/mocks_proxy"
+2020-06-05 12:45:53,636 INFO 3027 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app.js"
+2020-06-05 12:45:53,637 INFO 3027 [egg-watcher:agent] watcher start success
+2020-06-05 12:45:53,646 INFO 3027 [egg:core] dump config after ready, 3ms
+2020-06-05 12:56:11,994 INFO 3027 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/service/goods.js","stat":{"dev":16777222,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33745856,"size":2749,"blocks":8,"atimeMs":1591332971928.5977,"mtimeMs":1591332971930.229,"ctimeMs":1591332971930.229,"birthtimeMs":1577355302000,"atime":"2020-06-05T04:56:11.929Z","mtime":"2020-06-05T04:56:11.930Z","ctime":"2020-06-05T04:56:11.930Z","birthtime":"2019-12-26T10:15:02.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-06-05 12:56:12,198 WARN 3027 [agent:development] reload worker because /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/service/goods.js change
+2020-06-05 13:11:56,816 WARN 3027 [agent:development] reload worker because /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/service/goods.js change
+2020-06-05 13:11:56,610 INFO 3027 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/service/goods.js","stat":{"dev":16777222,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33745856,"size":2774,"blocks":8,"atimeMs":1591333916548.3174,"mtimeMs":1591333916548.7646,"ctimeMs":1591333916548.7646,"birthtimeMs":1577355302000,"atime":"2020-06-05T05:11:56.548Z","mtime":"2020-06-05T05:11:56.549Z","ctime":"2020-06-05T05:11:56.549Z","birthtime":"2019-12-26T10:15:02.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-06-05 13:12:23,187 WARN 3027 [agent:development] reload worker because /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/service/goods.js change
+2020-06-05 13:12:22,986 INFO 3027 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/service/goods.js","stat":{"dev":16777222,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33745856,"size":2790,"blocks":8,"atimeMs":1591333942923.3433,"mtimeMs":1591333942923.8574,"ctimeMs":1591333942923.8574,"birthtimeMs":1577355302000,"atime":"2020-06-05T05:12:22.923Z","mtime":"2020-06-05T05:12:22.924Z","ctime":"2020-06-05T05:12:22.924Z","birthtime":"2019-12-26T10:15:02.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-06-05 14:10:44,374 WARN 3027 [agent:development] reload worker because /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/service/order.js change
+2020-06-05 14:10:44,172 INFO 3027 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/service/order.js","stat":{"dev":16777222,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33745855,"size":995,"blocks":8,"atimeMs":1591337444057.466,"mtimeMs":1591337444058.943,"ctimeMs":1591337444058.943,"birthtimeMs":1577352042000,"atime":"2020-06-05T06:10:44.057Z","mtime":"2020-06-05T06:10:44.059Z","ctime":"2020-06-05T06:10:44.059Z","birthtime":"2019-12-26T09:20:42.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-06-05 14:10:52,006 WARN 3027 [agent:development] reload worker because /Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/service/goods.js change
+2020-06-05 14:10:51,804 INFO 3027 [egg-watcher] Recieved a change event from eventSource: {"event":"change","path":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app/service/goods.js","stat":{"dev":16777222,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":33745856,"size":2768,"blocks":8,"atimeMs":1591337451793.5378,"mtimeMs":1591337451793.9631,"ctimeMs":1591337451793.9631,"birthtimeMs":1577355302000,"atime":"2020-06-05T06:10:51.794Z","mtime":"2020-06-05T06:10:51.794Z","ctime":"2020-06-05T06:10:51.794Z","birthtime":"2019-12-26T10:15:02.000Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-06-05 18:17:57,374 ERROR 3027 nodejs.ClusterClientNoResponseError: client no response in 5362740ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3027
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-05 18:51:14,585 ERROR 3027 nodejs.ClusterClientNoResponseError: client no response in 1977186ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3027
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-05 19:10:03,372 ERROR 3027 nodejs.ClusterClientNoResponseError: client no response in 1087721ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3027
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-05 19:20:38,978 ERROR 3027 nodejs.ClusterClientNoResponseError: client no response in 115530ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3027
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-05 20:03:04,719 ERROR 3027 nodejs.ClusterClientNoResponseError: client no response in 2545737ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3027
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-05 20:18:14,050 ERROR 3027 nodejs.ClusterClientNoResponseError: client no response in 349272ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3027
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-06 08:06:05,204 INFO 2241 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-06-06 08:06:05,214 INFO 2241 [egg:core] dump config after load, 4ms
+2020-06-06 08:06:05,258 INFO 2241 [egg-watcher] Start watching: ["/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app","/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config","/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/mocks","/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/mocks_proxy","/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app.js"]
+2020-06-06 08:06:05,258 INFO 2241 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app"
+2020-06-06 08:06:05,258 INFO 2241 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config"
+2020-06-06 08:06:05,259 INFO 2241 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/mocks"
+2020-06-06 08:06:05,259 INFO 2241 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/mocks_proxy"
+2020-06-06 08:06:05,259 INFO 2241 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/app.js"
+2020-06-06 08:06:05,259 INFO 2241 [egg-watcher:agent] watcher start success
+2020-06-06 08:06:05,274 INFO 2241 [egg:core] dump config after ready, 3ms
+2020-06-07 09:00:10,079 ERROR 2241 nodejs.ClusterClientNoResponseError: client no response in 37427908ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2241
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-07 10:37:33,817 ERROR 2241 nodejs.ClusterClientNoResponseError: client no response in 5823716ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2241
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-07 13:29:00,371 ERROR 2241 nodejs.ClusterClientNoResponseError: client no response in 10286545ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2241
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-09-20 14:15:11,784 INFO 43589 [egg:logger] init all loggers with options: {"dir":"/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/logs/shopping-system-backend","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"shopping-system-backend-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-09-20 14:15:11,795 INFO 43589 [egg:core] dump config after load, 4ms
+2020-09-20 14:15:11,844 INFO 43589 [egg-watcher] Start watching: ["/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/app","/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config","/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/mocks","/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/mocks_proxy","/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/app.js"]
+2020-09-20 14:15:11,844 INFO 43589 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/app"
+2020-09-20 14:15:11,845 INFO 43589 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config"
+2020-09-20 14:15:11,845 INFO 43589 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/mocks"
+2020-09-20 14:15:11,845 INFO 43589 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/mocks_proxy"
+2020-09-20 14:15:11,845 INFO 43589 [egg-watcher] Start watching: "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/app.js"
+2020-09-20 14:15:11,845 INFO 43589 [egg-watcher:agent] watcher start success
+2020-09-20 14:15:11,857 INFO 43589 [egg:core] dump config after ready, 4ms

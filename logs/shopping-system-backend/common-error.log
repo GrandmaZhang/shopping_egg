@@ -1,0 +1,90 @@
+2020-06-05 18:17:57,313 ERROR 3027 nodejs.ClusterClientNoResponseError: client no response in 5362740ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3027
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-05 18:51:14,585 ERROR 3027 nodejs.ClusterClientNoResponseError: client no response in 1977186ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3027
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-05 19:10:03,372 ERROR 3027 nodejs.ClusterClientNoResponseError: client no response in 1087721ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3027
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-05 19:20:38,978 ERROR 3027 nodejs.ClusterClientNoResponseError: client no response in 115530ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3027
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-05 20:03:04,718 ERROR 3027 nodejs.ClusterClientNoResponseError: client no response in 2545737ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3027
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-05 20:18:14,050 ERROR 3027 nodejs.ClusterClientNoResponseError: client no response in 349272ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 3027
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-07 09:00:10,058 ERROR 2241 nodejs.ClusterClientNoResponseError: client no response in 37427908ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2241
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-07 10:37:33,815 ERROR 2241 nodejs.ClusterClientNoResponseError: client no response in 5823716ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2241
+hostname: zhangmanludeMacBook-Pro.local
+
+2020-06-07 13:29:00,371 ERROR 2241 nodejs.ClusterClientNoResponseError: client no response in 10286545ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/cluster-client/lib/leader.js:77:23)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ClusterClientNoResponseError"
+pid: 2241
+hostname: zhangmanludeMacBook-Pro.local
+

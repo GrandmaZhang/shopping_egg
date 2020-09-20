@@ -26,11 +26,10 @@ module.exports = app => {
   router.post("/add-goods", controller.goods.addGoods);
   router.post("/delete-goods", controller.goods.deleteGoods);
   router.post("/delete-cart-item", controller.goods.deleteCartItem);
+  router.post("/update-user", controller.user.updateUserInfo);
 
-  // app.io.of('/')
   app.io.route("statusChange", app.io.controller.chat.index);
 
-  // app.io.of('/chat')
   app.io
     .of("/statusChange")
     .route("statusChange", app.io.controller.chat.index);

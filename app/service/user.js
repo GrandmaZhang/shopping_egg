@@ -21,6 +21,20 @@ class UserService extends Service {
     const user = await app.mysql.get("user", { id });
     return user;
   }
+  async updateUser(params) {
+    const { app } = this;
+    const { id, ...res } = params;
+    const user = await app.mysql.update(
+      "user",
+      { ...res },
+      {
+        where: {
+          id
+        } //修改查询条件
+      }
+    );
+    return user;
+  }
   async updateMoneyAndShoppingCart(userId, price, orderId) {
     const { app } = this;
     const userInfo = await app.mysql.select("user", { where: { id: userId } });

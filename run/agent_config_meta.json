@@ -1,308 +1,308 @@
 {
-  "keys": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js",
-  "middleware": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js",
+  "keys": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config/config.default.js",
+  "middleware": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config/config.default.js",
   "mysql": {
     "client": {
-      "host": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js",
-      "port": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js",
-      "user": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js",
-      "password": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js",
-      "database": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js"
+      "host": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config/config.default.js",
+      "port": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config/config.default.js",
+      "user": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config/config.default.js",
+      "password": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config/config.default.js",
+      "database": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config/config.default.js"
     },
-    "app": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js",
-    "agent": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js",
+    "app": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config/config.default.js",
+    "agent": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config/config.default.js",
     "default": {
-      "database": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-mysql/config/config.default.js",
-      "connectionLimit": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-mysql/config/config.default.js"
+      "database": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-mysql/config/config.default.js",
+      "connectionLimit": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-mysql/config/config.default.js"
     }
   },
   "security": {
-    "csrf": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js",
-    "domainWhiteList": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
-    "protocolWhiteList": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
+    "csrf": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config/config.default.js",
+    "domainWhiteList": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
     "xframe": {
-      "enable": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.local.js",
-      "maxAge": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
-      "includeSubdomains": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
-      "policy": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
-      "checkAddress": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
+      "ipBlackList": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
     }
   },
   "io": {
     "namespace": {
       "/": {
-        "connectionMiddleware": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js",
-        "packetMiddleware": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/config/config.default.js"
+        "connectionMiddleware": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config/config.default.js",
+        "packetMiddleware": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/config/config.default.js"
       }
     },
-    "init": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-socket.io/config/config.default.js"
+    "init": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-socket.io/config/config.default.js"
   },
   "session": {
-    "maxAge": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-session/config/config.default.js",
-    "key": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-session/config/config.default.js"
+    "maxAge": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-session/config/config.default.js"
   },
   "helper": {
-    "shtml": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
+    "shtml": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-jsonp/config/config.default.js",
-    "callback": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-jsonp/config/config.default.js",
-    "csrf": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-jsonp/config/config.default.js"
+    "limit": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-onerror/config/config.default.js",
-    "appErrorFilter": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-onerror/config/config.default.js",
-    "templatePath": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-onerror/config/config.default.js"
+    "errorPageUrl": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-i18n/config/config.default.js",
-    "dirs": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-i18n/config/config.default.js",
-    "queryField": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-i18n/config/config.default.js",
-    "cookieField": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-i18n/config/config.default.js",
-    "cookieDomain": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-i18n/config/config.default.js"
+    "defaultLocale": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-watcher/config/config.local.js",
+    "type": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-watcher/config/config.local.js",
     "eventSources": {
-      "default": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-watcher/config/config.default.js",
-      "development": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-watcher/config/config.default.js"
+      "default": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-schedule/config/config.default.js",
-      "file": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-schedule/config/config.default.js"
+      "consoleLevel": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "schedule": {
-    "directory": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-schedule/config/config.default.js"
+    "directory": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-schedule/config/config.default.js"
   },
   "multipart": {
-    "mode": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
-    "autoFields": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
-    "defaultCharset": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
-    "fieldNameSize": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
-    "fieldSize": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
-    "fields": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
-    "fileSize": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
-    "files": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
-    "fileExtensions": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
-    "whitelist": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
-    "tmpdir": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
+    "mode": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js",
     "cleanSchedule": {
-      "cron": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js"
+      "cron": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-multipart/config/config.default.js"
     }
   },
   "development": {
-    "watchDirs": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-development/config/config.default.js",
-    "ignoreDirs": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-development/config/config.default.js",
-    "fastReady": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-development/config/config.default.js",
-    "reloadOnDebug": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-development/config/config.default.js",
-    "overrideDefault": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-development/config/config.default.js"
+    "watchDirs": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-development/config/config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js",
-    "maxFileSize": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js",
-    "maxFiles": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js",
-    "rotateDuration": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js",
-    "maxDays": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-static/config/config.default.js",
-    "dir": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-static/config/config.default.js",
-    "dynamic": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-static/config/config.default.js",
-    "preload": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-static/config/config.default.js",
-    "buffer": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-static/config/config.default.js",
-    "maxFiles": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-static/config/config.default.js"
+    "prefix": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-static/config/config.default.js"
   },
   "view": {
-    "root": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-view/config/config.default.js",
-    "cache": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-view/config/config.local.js",
-    "defaultExtension": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-view/config/config.default.js",
-    "defaultViewEngine": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-view/config/config.default.js",
-    "mapping": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg-view/config/config.default.js"
+    "root": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg-view/config/config.default.js"
   },
-  "env": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-  "name": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-  "cookies": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-  "proxy": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-  "maxIpsCount": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-  "maxProxyCount": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-  "protocolHeaders": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-  "ipHeaders": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-  "hostHeaders": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "env": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "name": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "version": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "description": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "private": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "name": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "version": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "description": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "private": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
     "egg": {
-      "declarations": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "declarations": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     },
     "dependencies": {
-      "egg": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "egg-mysql": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "egg-scripts": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "egg-socket.io": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "egg": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "egg-mysql": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "egg-socket.io": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "autod": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "autod-egg": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "egg-bin": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "egg-ci": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "egg-mock": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "eslint": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "eslint-config-egg": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "autod": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     },
     "engines": {
-      "node": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "node": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     },
     "scripts": {
-      "start": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "stop": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "dev": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "debug": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "test": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "test-local": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "cov": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "lint": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "ci": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "autod": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "start": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "stop": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "dev": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "debug": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "test": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "cov": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "lint": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "ci": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "autod": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     },
     "ci": {
-      "version": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "version": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     },
     "repository": {
-      "type": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "url": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "type": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "url": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     },
-    "author": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "license": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+    "author": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "license": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
   },
-  "baseDir": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-  "HOME": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-  "rundir": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "baseDir": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+    "ignore": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "notFound": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "sitefile": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "middlewares": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "httpClient": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+    "bodyparser": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+    "pageUrl": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+    "/favicon.ico": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
   },
   "bodyParser": {
-    "enable": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "formLimit": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "jsonLimit": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "textLimit": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "strict": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "enable": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "strict": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "depth": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "parameterLimit": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "arrayLimit": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "depth": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     },
-    "onerror": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+    "onerror": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
   },
   "logger": {
-    "dir": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "env": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "level": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "consoleLevel": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "disableConsoleAfterReady": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "outputJSON": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "buffer": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "appLogName": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "coreLogName": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "agentLogName": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "errorLogName": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "dir": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "env": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "level": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
     "coreLogger": {
-      "consoleLevel": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.local.js"
+      "consoleLevel": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.local.js"
     },
-    "allowDebugAtProd": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+    "allowDebugAtProd": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "dnsCacheLookupInterval": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxLength": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "timeout": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "logging": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+    "enable": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "logging": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-  "workerStartTimeout": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-  "serverTimeout": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "coreMiddleware": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "port": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-      "hostname": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+      "path": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "port": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
-    "responseTimeout": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+    "maxWaitTime": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
   },
-  "onClientError": "/Users/zhangmanlu/Desktop/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
+  "onClientError": "/Users/zhangmanlu/Desktop/学校/shopping_mall/shopping_egg/node_modules/egg/config/config.default.js"
 }

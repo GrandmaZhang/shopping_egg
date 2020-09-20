@@ -77,8 +77,13 @@ class GoodsService extends Service {
   }
   async addGoods(row) {
     const { app } = this;
-    const result = await app.mysql.insert("goods", { ...row });
-    return result;
+    row.url = JSON.stringify([row.url]);
+    try {
+      const result = await app.mysql.insert("goods", { ...row });
+      return result;
+    } catch (err) {
+      console.log(err);
+    }
   }
   async deleteGoods(id) {
     const { app } = this;

@@ -18,7 +18,6 @@ class OrderService extends Service {
       userId,
       createTime: new Date()
     });
-    console.log(result);
     return result;
   }
   async cancelOrder(id, order, status) {
